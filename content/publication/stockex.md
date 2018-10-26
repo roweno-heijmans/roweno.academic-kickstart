@@ -8,7 +8,7 @@ title = "regulating stock externalities"
 date = "2018-10-18"
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
-authors = ["Heijmans, RJRK", "Gerlagh, R"]
+authors = ["Heijmans RJRK", "Gerlagh R"]
 
 # Publication type.
 # Legend:
