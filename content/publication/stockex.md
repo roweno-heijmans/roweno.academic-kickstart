@@ -1,13 +1,13 @@
 +++
 # Abstract and optional shortened version.
-abstract = "Abstract."
+abstract = "We develop a dynamic regulation game for a stock externality under asymmetric information and future market uncertainty. Within this framework, regulation is characterized as the implementation of a welfare-maximization program conditional on informational constraints. We identify the most general executable such programs and find these yield simple and intuitive policy rules. We apply our theory to carbon dioxide emissions trading schemes and find substantial welfare gains are possible, compared to current practices."
 abstract_short = ""
 
 title = "Regulating Stock Externalities"
 date = "2018"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["RJRK Heijmans", "R Gerlagh"]
+authors = ["R.J.R.K. Heijmans", "R. Gerlagh"]
 
 # Publication type.
 # Legend:
