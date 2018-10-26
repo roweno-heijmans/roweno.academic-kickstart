@@ -4,7 +4,7 @@ abstract = "In Dutch. Report written on request of the Dutch Ministry of Agricul
 abstract_short = ""
 
 title = "Veilen of vergelijken voor het winnen van windenergie op zee?"
-date = "01-09-2018"
+date = "2018-09-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Eric van Damme", "Reyer Gerlagh", "Roweno Heijmans", "Bert Willems"]
