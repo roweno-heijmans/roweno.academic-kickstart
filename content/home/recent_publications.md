@@ -2,8 +2,8 @@
 # Working Papers widget.
 # This widget displays publications from `content/publication/` which have
 # `selected = true` in their `+++` front matter.
-widget = "wps"
-active = true
+widget = "recent_publications"
+active = false
 date = 2016-04-20T00:00:00
 
 title = "Working Papers"
