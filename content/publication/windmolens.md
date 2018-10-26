@@ -1,6 +1,6 @@
 +++
 # Abstract and optional shortened version.
-abstract = "In Dutch. Report written on request of the Dutch Ministry of Agriculture, Nature and Food Quality regarding the question how, using which mechanism, the right to build windmill parks on the North Sea are best allocated. "
+abstract = "In Dutch. Report written on request of the Dutch Ministry of Agriculture, Nature and Food Quality regarding the question how -- i.e. using which mechanism -- the rights to build windmill parks on the North Sea are best allocated. "
 abstract_short = ""
 
 title = "Veilen of vergelijken voor het winnen van windenergie op zee?"
