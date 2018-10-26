@@ -17,19 +17,24 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Economics"
+  institution = "Tilburg University"
+  year = 2017-present
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "RMSc in Economics"
+  institution = "Tilburg University"
+  year = 2015-2017
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Economics"
+  institution = "Tilburg University"
+  year = 2012-2015
+  
+[[education.courses]]
+  course = "Pre-university Education (VWO)"
+  institution = "Ds. Pierson College, the Netherlands"
+  year = 2006-2012
  
 +++
 
