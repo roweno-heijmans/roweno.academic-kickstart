@@ -1,10 +1,10 @@
 +++
 # Abstract and optional shortened version.
-abstract = "Abstract."
+abstract = " "
 abstract_short = ""
 
 title = "Why the New EU-ETS is Almost Perfect (EAERE Magazine)"
-date = "Fall 2018"
+date = "2018-10-18"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["R.J.R.K. Heijmans", "R. Gerlagh"]
