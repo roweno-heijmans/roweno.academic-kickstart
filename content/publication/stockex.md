@@ -34,5 +34,5 @@ math = true
 # Does the content use source code highlighting?
 highlight = true
 
-url_pdf = "stockex.pdf"
+url_pdf = "files/stockex.pdf"
 +++
