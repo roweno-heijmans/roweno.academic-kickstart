@@ -1,12 +1,12 @@
 +++
-# Working Papers widget.
+# selected_publications widget.
 # This widget displays publications from `content/publication/` which have
 # `selected = true` in their `+++` front matter.
-widget = "recent_publications"
+widget = "selected_publications"
 active = false
 date = 2016-04-20T00:00:00
 
-title = "Working Papers"
+title = "Selected Publications"
 subtitle = ""
 
 # Order that this section will appear in.
