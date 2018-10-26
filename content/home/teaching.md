@@ -15,4 +15,6 @@ weight = 60
 
 +++
 
-Hier komt wat ik aan onderwijs doe.
+- Grondslagen Macro-economie 2016-2018
+- Macroeconomics for EOR 2017 - 2018
+- MSc thesis supervision 2018
