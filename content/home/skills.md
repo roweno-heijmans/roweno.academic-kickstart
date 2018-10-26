@@ -22,8 +22,8 @@ weight = 7
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
+  icon = "fa-laptop"
+  icon_pack = "fas"
   name = "R"
   description = "90%"
   
