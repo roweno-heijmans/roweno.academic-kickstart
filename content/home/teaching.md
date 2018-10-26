@@ -14,9 +14,4 @@ subtitle = ""
 weight = 60
 
 
-
-* abc
-
- * def
-
 +++
