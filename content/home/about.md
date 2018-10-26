@@ -20,22 +20,22 @@ weight = 5
 [[education.courses]]
   course = "PhD in Economics"
   institution = "Tilburg University"
-  year = 2017-present
-
+  year = 2017
+  
 [[education.courses]]
   course = "RMSc in Economics"
   institution = "Tilburg University"
-  year = 2015-2017
+  year = 2015
 
 [[education.courses]]
   course = "BSc in Economics"
   institution = "Tilburg University"
-  year = 2012-2015
+  year = 2012
   
 [[education.courses]]
   course = "Pre-university Education (VWO)"
   institution = "Ds. Pierson College, the Netherlands"
-  year = 2006-2012
+  year = 2006
  
 +++
 
