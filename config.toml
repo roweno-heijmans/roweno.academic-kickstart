@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Roweno J. R. K. Heijmans" 
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -99,17 +99,17 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "ocean"
+  color_theme = "default"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "classic"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
   description = ""
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-  sharing_image = ""
+  sharing_image = "32372816_1102784879864008_6850959366720323584_n.jpg"
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
   twitter = ""
@@ -244,15 +244,15 @@ enableGitInfo = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fas"
-    link = "mailto:r.j.r.k.heijmans@uvt.nl"
+ # [[params.social]]
+ #   icon = "envelope"
+ #   icon_pack = "fas"
+ #   link = "mailto:r.j.r.k.heijmans@uvt.nl"
 
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+ # [[params.social]]
+ #   icon = "google-scholar"
+ #   icon_pack = "ai"
+ #   link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
 
   # Link to a PDF of your resume/CV from the About widget.
@@ -280,15 +280,15 @@ enableGitInfo = false
   url = "#publications_selected"
   weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 3
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
+#[[menu.main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 4
 
 [[menu.main]]
   name = "Contact"
@@ -303,12 +303,12 @@ enableGitInfo = false
 #    weight = 7
 
 # Search.
-[params.search]
+#[params.search]
   # Search provider:
   #   0: No search engine
   #   1: Built-in (Fuse)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+# engine = 1
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
