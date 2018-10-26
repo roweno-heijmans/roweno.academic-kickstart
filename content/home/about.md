@@ -35,7 +35,7 @@ weight = 5
 
 # Biography
 
-Test 1,2,3.
+Hi, and welcome! I am a PhD candidate at Tilburg University. 
 
 Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
