@@ -4,7 +4,7 @@ abstract = "We develop a two-regions emission trading model for a global homogen
 abstract_short = ""
 
 title = "Regulating a Global Externality"
-date = "October 2018"
+date = "October, 2018"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["R.J.R.K. Heijmans", "R. Gerlagh"]
