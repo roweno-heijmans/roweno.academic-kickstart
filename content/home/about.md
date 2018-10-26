@@ -40,8 +40,6 @@ weight = 5
 
 # Biography
 
-Hi, and welcome! I am a PhD candidate at Tilburg University. 
+Hi, and welcome! I am an Economist writing my PhD Thesis at the Department of Economics at Tilburg University, the Netherlands, under supervision of Eric van Damme and Reyer Gerlagh. My research interests are Game Theory, in particular games of asymmetric information, and Environmental Economics. 
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I participate in the Tilburg Behavioral Reading Group and the Tilburg Macro Study Group, as well as the Internal and External departmental seminar series at Tilburg University.
