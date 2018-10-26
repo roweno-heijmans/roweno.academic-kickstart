@@ -36,6 +36,6 @@ date_format = "January 2006"
   location = "the Netherlands"
   date_start = "2017-01-09"
   date_end = ""
-  description = """I expect to graduate in Summer 2021. My supervisore are [Eric van Damme](https://www.tilburguniversity.edu/nl/webwijs/show/eric.vandamme_nl.htm) and [Reyer Gerlagh](https://www.tilburguniversity.edu/nl/webwijs/show/r.gerlagh_nl/)."""
+  description = """ """
 
 +++
