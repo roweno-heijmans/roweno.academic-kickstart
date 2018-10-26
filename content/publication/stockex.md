@@ -4,10 +4,10 @@ abstract = "We develop a dynamic regulation game for a stock externality under a
 abstract_short = ""
 
 title = "Regulating Stock Externalities"
-date = "2018"
+date = "10-10-2018"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["R.J.R.K. Heijmans", "R. Gerlagh"]
+authors = ["R. Gerlagh", "R.J.R.K. Heijmans"]
 
 # Publication type.
 # Legend:
