@@ -35,7 +35,9 @@ date_format = "January 2006"
   company_url = ""
   location = "the Netherlands"
   date_start = "2017-01-09"
-  date_end = ""
-  description = """I expect to graduate in Summer 2021."""
+  date_end = "Summer 2021 (expected)"
+  description = """I expect to graduate in Summer 2021.
+  
+  My supervisore are Eric van Damme and Reyer Gerlagh."""
 
 +++
