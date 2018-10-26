@@ -2,8 +2,10 @@
 
 # Abstract and optional shortened version.
 
-abstract = "the abstract"
-title = "regulating stock externalities" date = "2018-10-18"
+abstract = "the abstract" 
+abstract_short = ""
+title = "regulating stock externalities" 
+date = "2018-10-18"
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
 authors = ["Heijmans, RJRK", "Gerlagh, R"]
