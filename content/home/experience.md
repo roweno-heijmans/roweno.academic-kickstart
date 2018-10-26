@@ -36,6 +36,6 @@ date_format = "January 2006"
   location = "the Netherlands"
   date_start = "2017-01-09"
   date_end = ""
-  description = """ """
+  description = """I expect to graduate in Summer 2021."""
 
 +++
