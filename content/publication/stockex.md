@@ -31,4 +31,6 @@ math = true
 # Does the content use source code highlighting?
 highlight = true
 
-url_pdf = "files/Gerlagh_Heijmans_2018.pdf" +++
+# url_pdf = "files/Gerlagh_Heijmans_2018.pdf" 
+
++++
