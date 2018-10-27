@@ -8,6 +8,10 @@
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "/"
 
+meta name="google-site-verification" 
+
+content="Bsetz7M9s10gwBaITwzC6qUx3Wf5SWLq2kNvjH_p14w"
+
 # Title of your site
 title = "Roweno J. R. K. Heijmans" 
 
