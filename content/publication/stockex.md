@@ -4,6 +4,7 @@ abstract = "We develop a dynamic regulation game for a stock externality under a
 abstract_short = ""
 
 title = "Regulating Stock Externalities (WP)"
+subtitle = "aap"
 date = "2018-10-18"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
