@@ -19,7 +19,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
   
 [[education.courses]]
-  course = "MSc Research in Economics"
+  course = "MSc (Research) in Economics"
   institution = "Tilburg University"
   year = 2015
 
