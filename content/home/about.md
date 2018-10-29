@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Game Theory",
-    "Machanism Design",
+    "Mechanism Design",
     "Environmental Economics",
     "Regulation"
   ]
@@ -37,9 +37,9 @@ weight = 5
 
 # Biography
 
-Hi, and welcome! I am an Economist writing my PhD Thesis at the Department of Economics at Tilburg University, the Netherlands, under supervision of [Eric van Damme](https://www.tilburguniversity.edu/nl/webwijs/show/eric.vandamme_nl.htm) and [Reyer Gerlagh](http://www.gerlagh.nl/).
+Hi, and welcome! I am an Economist writing my PhD Thesis at the Economics Department of [Tilburg University](https://www.tilburguniversity.edu/), the Netherlands, under supervision of [Eric van Damme](https://www.tilburguniversity.edu/nl/webwijs/show/eric.vandamme_nl.htm) and [Reyer Gerlagh](http://www.gerlagh.nl/).
 
 
 My research interests are Game Theory, in particular games of asymmetric information, and Environmental Economics. 
 
-I participate in the Tilburg Behavioral Reading Group and the Tilburg Macro Study Group, as well as the Internal and External departmental seminar series at Tilburg University.
+I participate in the [Tilburg Behavioral Economics Reading Group](https://behavioralreadinggroup.weebly.com/) and the [Tilburg Macro Study Group](https://sites.google.com/site/macroreadingtilburg/home), as well as the [Internal](https://www.tilburguniversity.edu/about/schools/economics-and-management/news/events/seminars/economics-workshops/) and [External](https://www.tilburguniversity.edu/about/schools/economics-and-management/news/events/seminars/economics/) departmental seminar series at Tilburg University.
