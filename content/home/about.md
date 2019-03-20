@@ -13,7 +13,8 @@ weight = 5
     "Game Theory",
     "Mechanism Design",
     "Environmental Economics",
-    "Regulation"
+    "Regulation",
+    "Evolution"
   ]
 
 # List your qualifications (such as academic degrees).
