@@ -37,7 +37,7 @@ weight = 5
 
 # Biography
 
-Hi, and welcome! I am an Economist writing my PhD Thesis at the Economics Department of [Tilburg University](https://www.tilburguniversity.edu/), the Netherlands, under supervision of [Eric van Damme](https://www.tilburguniversity.edu/nl/webwijs/show/eric.vandamme_nl.htm) and [Reyer Gerlagh](http://www.gerlagh.nl/).
+Hi, and welcome! I am an Economist writing my PhD Thesis at the Economics Department of [Tilburg University](https://www.tilburguniversity.edu/), the Netherlands, under supervision of [Eric van Damme](https://research.tilburguniversity.edu/en/persons/eric-van-damme) and [Reyer Gerlagh](http://www.gerlagh.nl/).
 
 
 My research interests are Game Theory, in particular games of asymmetric information, and Environmental Economics. 
