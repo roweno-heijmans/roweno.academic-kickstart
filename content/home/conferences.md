@@ -7,7 +7,7 @@ active = true
 date = "2016-04-20T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Conferences"
+title = "Conference Presentations"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -15,6 +15,7 @@ weight = 30
 
 +++
 
-- Grondslagen Macro-economie (Dutch; 2016 - 2018)
-- Macroeconomics for EOR (2017 - 2018)
-- MSc thesis supervision (2018)
+- Conference 1 
+- Conference 2 
+- Conference 3 
+- Etc. 
