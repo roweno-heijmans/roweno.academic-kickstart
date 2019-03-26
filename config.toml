@@ -280,14 +280,19 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Research"
-  url = "#research"
+  name = "Publications"
+  url = "#publications"
   weight = 2
+  
+  [[menu.main]]
+  name = "Work in Progress"
+  url = "#WIP"
+  weight = 3
 
 [[menu.main]]
   name = "Conferences"
   url = "#conferences"
-  weight = 3
+  weight = 4
 
 #[[menu.main]]
 #  name = "Projects"
