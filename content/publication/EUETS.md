@@ -25,7 +25,7 @@ publication = "EAERE Magazine"
 publication_short = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 
 # Does the content use math formatting?
