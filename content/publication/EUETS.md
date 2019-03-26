@@ -29,7 +29,7 @@ selected = false
 
 
 # Does the content use math formatting?
-math = false
+math = true
 
 # Does the content use source code highlighting?
 highlight = true
