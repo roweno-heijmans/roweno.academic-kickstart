@@ -1,10 +1,16 @@
 +++
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "The question in which we are interested is how a market inhabited by multiple
+agents, about whom we are differentially uncertain, and who trade goods the use of
+which imposes a negative effect on others, is to be ideally regulated. We show that a
+priori asymmetric uncertainty, when combined with a posteriori observed outcomes,
+is a rich source of information that can be used to reduce aggregate uncertainty. The
+observation implies that whereas asymmetric information usually entails a cost on
+welfare, it can help achieve greater efficiency in regulation."
 abstract_short = ""
 
 title = "Regulating Global Externalities"
-date = "2018-10-18"
+date = "2019-10-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["R.J.R.K. Heijmans", "R. Gerlagh"]
