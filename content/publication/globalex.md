@@ -4,7 +4,7 @@ abstract = ""
 abstract_short = ""
 
 title = "Regulating Global Externalities"
-date = "2019-10-01"
+date = "2019-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["R.J.R.K. Heijmans", "R. Gerlagh"]
