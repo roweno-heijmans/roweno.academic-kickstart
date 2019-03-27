@@ -3,8 +3,7 @@
 abstract = ""
 abstract_short = ""
 
-title = "Virtue at the Cost of Others"
-subtitle = "Climate-Conscious Consumers and the Buy, Bank, Burn Program"
+title = "Virtue at the Cost of Others -- Climate-Conscious Consumers and the Buy, Bank, Burn Program"
 date = "2019-02-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
