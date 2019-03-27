@@ -3,8 +3,9 @@
 abstract = ""
 abstract_short = ""
 
-title = "Virtue at the Cost of Others -- Climate-Conscious Consumers and the Buy, Bank, Burn Program"
-date = "2018-10-18"
+title = "Virtue at the Cost of Others"
+subtitle = "Climate-Conscious Consumers and the Buy, Bank, Burn Program"
+date = "2019-02-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["R.J.R.K. Heijmans", "R. Gerlagh"]
@@ -21,7 +22,7 @@ authors = ["R.J.R.K. Heijmans", "R. Gerlagh"]
 publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
-publication = "Work-in-progress"
+publication = "Submitted"
 publication_short = ""
 
 # Is this a selected publication? (true/false)
