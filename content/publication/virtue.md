@@ -1,9 +1,9 @@
 +++
 # Abstract and optional shortened version.
-abstract = "We develop a two-regions emission trading model for a global homogeneous pollutant with uncertain benefits of emissions. We develop a structural analysis of trade welfare gains and identify the optimal quantity-based emission trade agreement that adjusts cumulative available permits in response to trade flows. The mechanism corrects for the differential in uncertainty and responsiveness of marginal benefits between regions, yielding substantial welfare gains and reduced price volatility compared to standard trading."
+abstract = ""
 abstract_short = ""
 
-title = "Regulating a Global Externality (WP)"
+title = "Virtue at the Cost of Others -- Climate-Conscious Consumers and the Buy, Bank, Burn Program"
 date = "2018-10-18"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
