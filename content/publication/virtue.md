@@ -7,8 +7,7 @@ title = "Climate-Conscious Consumers and the Buy, Bank, Burn Program"
 date = "2019-02-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["R.J.R.K. Heijmans", "R. Gerlagh"]
-
+authors = ["R. Gerlagh","R.J.R.K. Heijmans"]
 # Publication type.
 # Legend:
 # 0 = Uncategorized
@@ -21,7 +20,7 @@ authors = ["R.J.R.K. Heijmans", "R. Gerlagh"]
 publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
-publication = "Conditionally accepted for publication."
+publication = "Accepted for publication in Nature Climate Change"
 publication_short = ""
 
 # Is this a selected publication? (true/false)
