@@ -20,7 +20,7 @@ authors = ["R. Gerlagh","R.J.R.K. Heijmans"]
 publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
-publication = "Accepted for publication in Nature Climate Change"
+publication = "Nature Climate Change forthcoming"
 publication_short = ""
 
 # Is this a selected publication? (true/false)
