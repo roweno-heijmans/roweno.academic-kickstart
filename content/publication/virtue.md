@@ -1,6 +1,6 @@
 +++
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "[Webversion](https://www.nature.com/articles/s41558-019-0482-0.epdf?author_access_token=cLnbfPP-6HiGGH1AKi6cadRgN0jAjWel9jnR3ZoTv0MY1SndHPiqaDEhtnPNdSCulNqf6icFPnWFgEaKdZByIgHhFIrZ-DTWTb3_qEsHpLPLwSjwa30ypN8dCoSRi8dr9LAhHWFWFmu1gDO-G1XjEg%3D%3D)"
 abstract_short = ""
 
 title = "Climate-Conscious Consumers and the Buy, Bank, Burn Program"
