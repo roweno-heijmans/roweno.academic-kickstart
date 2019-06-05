@@ -18,3 +18,4 @@ weight = 60
 - Grondslagen Macro-economie (Dutch; 2016 - 2018)
 - Macroeconomics for EOR (2017 - 2018)
 - MSc thesis supervision (2018)
+- Economics for Social Sciences (2019)
