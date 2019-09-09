@@ -33,9 +33,11 @@ weight = 5
 
 # Biography
 
-Hi, and welcome! I am an Economist writing my PhD Thesis at the Economics Department of [Tilburg University](https://www.tilburguniversity.edu/), the Netherlands, under supervision of [Eric van Damme](https://research.tilburguniversity.edu/en/persons/eric-van-damme) and [Reyer Gerlagh](http://www.gerlagh.nl/).
+Welcome to my website! I am an Economist writing my PhD Thesis at the Economics Department of [Tilburg University](https://www.tilburguniversity.edu/), the Netherlands, under supervision of [Eric van Damme](https://research.tilburguniversity.edu/en/persons/eric-van-damme) and [Reyer Gerlagh](http://www.gerlagh.nl/).
 
 
 My research interests are Game Theory, in particular games of asymmetric information, and Environmental Economics. 
 
 I participate in the [Tilburg Behavioral Economics Reading Group](https://behavioralreadinggroup.weebly.com/) and the [Tilburg Macro Study Group](https://sites.google.com/site/macroreadingtilburg/home), as well as the [Internal](https://www.tilburguniversity.edu/about/schools/economics-and-management/news/events/seminars/economics-workshops/) and [External](https://www.tilburguniversity.edu/about/schools/economics-and-management/news/events/seminars/economics/) departmental seminar series at Tilburg University.
+
+In my (non-existent) free time, I play the violin. With colleague [Sjak Smulders](https://research.tilburguniversity.edu/en/persons/sjak-smulders) we from time to time bother our colleagues by forcing upon them a [concert](https://twitter.com/TiUEconomics/status/1111204863382380544) in which we play music of our own choosing (this means Bach, Mozart, Beethoven, Schubert, Franck, etc.). Everyone will be happy once I defend my thesis and leave... 
