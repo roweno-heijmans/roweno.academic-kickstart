@@ -19,4 +19,4 @@ weight = 60
 - Macroeconomics for EOR (2017 - 2018)
 - MSc thesis supervision (2017 - 2018)
 - Economics for Social Sciences (2018 - 2019)
-- Micro-economist 2 CentER Game Theory (Research Master, 2019 - 2020) 
+- Micro-economics 2, Game Theory, for CentER (Research Master, 2019 - 2020) 
