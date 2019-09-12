@@ -4,7 +4,7 @@ abstract = "[Webversion](https://www.nature.com/articles/s41558-019-0482-0.epdf?
 abstract_short = ""
 
 title = "Climate-Conscious Consumers and the Buy, Bank, Burn Program"
-date = "2019-02-01"
+date = "2019-06-13"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["R. Gerlagh","R.J.R.K. Heijmans"]
@@ -20,7 +20,7 @@ authors = ["R. Gerlagh","R.J.R.K. Heijmans"]
 publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
-publication = "Nature Climate Change forthcoming"
+publication = "Nature Climate Change"
 publication_short = ""
 
 # Is this a selected publication? (true/false)
