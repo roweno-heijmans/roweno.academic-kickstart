@@ -1,9 +1,9 @@
 +++
 # Abstract and optional shortened version.
-abstract = "The question in which we are interested is how a market inhabited by multiple agents, about whom we are differentially uncertain, and who trade goods the use of which imposes a negative effect on others, is to be ideally regulated. We show that a priori asymmetric uncertainty, when combined with a posteriori observed outcomes, is a rich source of information that can be used to reduce aggregate uncertainty. The observation implies that whereas asymmetric information usually entails a cost on welfare, it can help achieve greater efficiency in regulation."
+abstract = "For any emission trading system (ETS) with quantity-based endogenous supply of allowances, there exists a negative demand shock, e.g. induced by abatement policy, that increases aggregate supply and thus cumulative emissions. We prove this green paradox for a general model and then apply it to the details of EU ETS. In 2018, new rules for a Market Stability Reserve (MSR) were agreed on and implemented. We show that abatement policies announced in early periods but realized in the future, are inverted by the new rules and increase cumulative emissions. We provide quantitative evidence of our result for a model disciplined on the price rise in the EU ETS that followed the introduction of the MSR."
 abstract_short = ""
 
-title = "Endogenous Emission Caps Always Induce a Green Paradox"
+title = "Endogenous Emission Caps Always Induce a Green Paradox (WP)"
 date = "2019-09-10"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
