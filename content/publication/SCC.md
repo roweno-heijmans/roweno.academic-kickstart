@@ -7,7 +7,7 @@ title = "Can The Social Cost of Carbon be Calcuated? YES"
 date = "2019-09-10"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["R. Gerlagh", "R.J.R.K. Heijmans", "K.E. Rosendahl"]
+authors = ["R. Gerlagh", "R.J.R.K. Heijmans"]
 
 # Publication type.
 # Legend:
@@ -21,7 +21,7 @@ authors = ["R. Gerlagh", "R.J.R.K. Heijmans", "K.E. Rosendahl"]
 publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "Book type, forthcoming in Routledge"
 publication_short = ""
 
 # Is this a selected publication? (true/false)
