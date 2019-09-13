@@ -21,7 +21,7 @@ authors = ["R. Gerlagh", "R.J.R.K. Heijmans"]
 publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "Book type, forthcoming in Routledge"
+publication = "Book chapter, forthcoming in Routledge"
 publication_short = ""
 
 # Is this a selected publication? (true/false)
