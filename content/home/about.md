@@ -11,10 +11,10 @@ weight = 5
 [interests]
   interests = [
     "Game Theory",
-    "Mechanism Design",
     "Environmental Economics",
     "Regulation",
-    "Evolution"
+    "Evolution",
+    "Discounting"
   ]
 
 # List your qualifications (such as academic degrees).
