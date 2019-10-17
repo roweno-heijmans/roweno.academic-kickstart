@@ -33,7 +33,7 @@ weight = 5
 
 # Biography
 
-I am a PhD candidate in Economist at the Economics Department of [Tilburg University](https://www.tilburguniversity.edu/), the Netherlands, supervised by [Eric van Damme](https://research.tilburguniversity.edu/en/persons/eric-van-damme) and [Reyer Gerlagh](http://www.gerlagh.nl/).
+I am a PhD candidate in economics at [Tilburg University](https://www.tilburguniversity.edu/), supervised by [Eric van Damme](https://research.tilburguniversity.edu/en/persons/eric-van-damme) and [Reyer Gerlagh](http://www.gerlagh.nl/).
 
 
 My research interests include game theory, in particular games of asymmetric information, the evolution of preferences, and environmental economics. 
