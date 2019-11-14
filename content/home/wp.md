@@ -1,7 +1,7 @@
 +++
 # Research widget.
 # This widget displays recent publications from `content/publication/`.
-widget = "working papers"
+widget = "wp"
 active = true
 date = 2016-04-20T00:00:00
 
