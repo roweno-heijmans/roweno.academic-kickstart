@@ -14,7 +14,8 @@ weight = 5
     "Environmental Economics",
     "Regulation",
     "Global Games",
-    "Discounting"
+    "Discounting",
+    "Disease eradication"
   ]
 
 # List your qualifications (such as academic degrees).
