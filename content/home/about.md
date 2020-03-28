@@ -15,7 +15,6 @@ weight = 5
     "Regulation",
     "Global Games",
     "Discounting",
-    "Disease eradication"
   ]
 
 # List your qualifications (such as academic degrees).
