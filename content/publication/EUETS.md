@@ -3,7 +3,7 @@
 abstract = " "
 abstract_short = ""
 
-title = "Why the New EU-ETS is Almost Perfect (EAERE Magazine)"
+title = "Why the New EU-ETS is Almost Perfect"
 date = "2018-10-18"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
