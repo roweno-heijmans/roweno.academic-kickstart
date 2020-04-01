@@ -4,7 +4,7 @@ abstract = "I study the private provision of a public good with strategic comple
 abstract_short = ""
 
 title = "The Global Climate Game"
-date = "2020"
+date = "2020-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["R.J.R.K. Heijmans"]
