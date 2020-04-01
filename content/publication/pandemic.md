@@ -7,7 +7,7 @@ title = "Rational Pandemics"
 date = "2020"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["R.J.R.K. Heijmans", "Ana Moura"]
+authors = ["R.J.R.K. Heijmans", "A. Moura"]
 # Publication type.
 # Legend:
 # 0 = Uncategorized
