@@ -4,7 +4,7 @@ abstract = "We identify four key properties that characterize the outbreak of a 
 abstract_short = ""
 
 title = "Rational Pandemics"
-date = "2020"
+date = ""
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["R.J.R.K. Heijmans", "A. Moura"]
