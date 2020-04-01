@@ -21,7 +21,7 @@ authors = ["R. Gerlagh", "R.J.R.K. Heijmans", "K.E. Rosendahl"]
 publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
-publication = "Working Paper"
+publication = ""
 publication_short = ""
 
 # Is this a selected publication? (true/false)
