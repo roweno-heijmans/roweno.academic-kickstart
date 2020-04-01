@@ -281,9 +281,19 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Research"
-  url = "#research"
+  name = "Publications"
+  url = "#pubs"
   weight = 2
+  
+  [[menu.main]]
+  name = "Working papers"
+  url = "#wp"
+  weight = 3
+  
+  [[menu.main]]
+  name = "Work in progress"
+  url = "#wip"
+  weight = 4
 
 # [[menu.main]]
 #  name = "Conferences"
