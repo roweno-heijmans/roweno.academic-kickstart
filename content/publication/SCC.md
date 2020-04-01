@@ -18,7 +18,7 @@ authors = ["R. Gerlagh", "R.J.R.K. Heijmans"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["6"]
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
 publication = "Book chapter, Routledge"
