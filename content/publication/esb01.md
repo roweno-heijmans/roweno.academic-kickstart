@@ -17,7 +17,7 @@ authors = ["R.J.R.K. Heijmans", "R. Gerlagh"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["7"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Economics Statistische Berichten"
