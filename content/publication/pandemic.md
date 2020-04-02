@@ -33,6 +33,6 @@ math = true
 # Does the content use source code highlighting?
 highlight = true
 
-url_pdf = "[Webversion](https://www.dropbox.com/sh/61uft5xqe5rcf0k/AABjVFjHpbFAnC0ZXhiFeccya?dl=0)"
+url = "[Webversion](https://www.dropbox.com/sh/61uft5xqe5rcf0k/AABjVFjHpbFAnC0ZXhiFeccya?dl=0)"
 +++
 
