@@ -1,9 +1,9 @@
 +++
 # Abstract and optional shortened version.
-abstract = "Newly emerging infectious diseases are expected to appear ever more frequently. Given the many uncertainties surrounding a new disease, we study global eradication efforts as a game of incomplete information. While models of disease eradication under perfect information tend to have multiple equilibria, we show that, for a world consisting of  N ≥ 2 countries, even a small amount of uncertainty leads to equilibrium uniqueness. Our equilibrium has several implications. First, pandemics can be rational. Second, a rational pandemic may be inefficient. Third, less harmful diseases may cause more deaths. Dynamically extending the game, a subset of countries commits to eradication whenever eradication is globally efficient. The equilibrium is again unique. Moreover, selection of the efficient no-pandemic equilibrium is greatly facilitated by this type of international cooperation."
+abstract = "We study why some infectious diseases become pandemics whilst others get eradicated, and suggest a mechanism to prevent the next pandemic in a game of incomplete information. While eradication games of perfect information tend to have multiple equilibria, we show that, for a world consisting of N ≥ 2 countries, even a small amount of uncertainty leads to equilibrium uniqueness. In equilibrium, a pandemic may occur even though eradication would have been efficient, and less harmful diseases may cause more deaths. We then extend the game and, prior to an outbreak, let a subset of countries commit to eradication whenever it is not dominated. The equilibrium is again unique. Selection of the efficient no-pandemic equilibrium is facilitated by this type of international cooperation."
 abstract_short = ""
 
-title = "Rational Pandemics"
+title = "Pandemic Policy in a Global Game"
 date = "2020-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
