@@ -12,10 +12,8 @@ weight = 5
   interests = [
     "Game Theory",
     "Environmental Economics",
-    "Regulation",
     "Global Games",
     "Global Public Goods",
-    "Disease eradication"
   ]
 
 # List your qualifications (such as academic degrees).
