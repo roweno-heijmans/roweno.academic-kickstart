@@ -10,8 +10,8 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Game Theory",
     "Environmental Economics",
+    "Game Theory",
     "Global Games",
     "Global Public Goods",
   ]
@@ -32,10 +32,10 @@ weight = 5
 
 # Biography
 
-Welcome to my website! I am a PhD candidate in economics at [Tilburg University](https://www.tilburguniversity.edu/), supervised by [Eric van Damme](https://research.tilburguniversity.edu/en/persons/eric-van-damme) and [Reyer Gerlagh](http://www.gerlagh.nl/).
+Welcome to my website! I am a PhD candidate in economics at [Tilburg University](https://research.tilburguniversity.edu/en/persons/roweno-jrk-heijmans/), supervised by [Eric van Damme](https://research.tilburguniversity.edu/en/persons/eric-van-damme) and [Reyer Gerlagh](http://www.gerlagh.nl/).
 
 
-My research interests include game theory, in particular games of asymmetric information, the evolution of preferences, and environmental economics. 
+My research interests are environmental economics and game theory, in particular games of incomplete information.
 
 I participate in the [Tilburg Behavioral Economics Reading Group](https://behavioralreadinggroup.weebly.com/) and the [Internal](https://www.tilburguniversity.edu/about/schools/economics-and-management/news/events/seminars/economics-workshops/) and [External](https://www.tilburguniversity.edu/about/schools/economics-and-management/news/events/seminars/economics/) departmental seminar series at Tilburg University. I am also affiliated to the [Tilburg Sustainability Center](https://www.tilburguniversity.edu/research/institutes-and-research-groups/tsc).
 
