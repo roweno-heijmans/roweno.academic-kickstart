@@ -1,9 +1,9 @@
 +++
 # Abstract and optional shortened version.
-abstract = "We study disease control in a game of imperfect information. While disease control games of perfect information tend to have multiple equilibria, we show that, for N ≥ 2 players, even a small amount of uncertainty leads to equilibrium uniqueness. In equilibrium, an epidemic may occur even though it is inefficient and could have been avoided. Moreover, less harmful diseases may cause more deaths. We extend the game to study cooperation and let a subset of players commit to control the disease whenever the expected benefit of doing so is sufficiently high. The equilibrium is again unique. Selection of a more favorable equilibrium is facilitated by this type of cooperation."
+abstract = "		We study disease control in a game of imperfect information. While disease control games of perfect information tend to have multiple equilibria, we show that even a small amount of uncertainty leads to equilibrium uniqueness. In equilibrium, an epidemic may occur even though it is inefficient and could have been avoided. Moreover, less harmful diseases may cause more deaths. We extend the game to study cooperation and let a subset of players commit to control the disease whenever the expected benefit of doing so is sufficiently high. The equilibrium is again unique. Selection of a more favorable equilibrium is facilitated by this type of cooperation."
 abstract_short = ""
 
-title = "Efficient Epidemics: Contagion, Control, and Coordination in a Global Game"
+title = "Efficient Epidemics: Contagion, Control, and Cooperation in a Global Game"
 date = "2020-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
