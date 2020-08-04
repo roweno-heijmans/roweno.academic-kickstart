@@ -21,7 +21,7 @@ authors = ["R. Gerlagh", "R.J.R.K. Heijmans", "K.E. Rosendahl"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Forthcoming in Environmental and Resource Economics"
+publication = "Environmental and Resource Economics"
 publication_short = ""
 
 # Is this a selected publication? (true/false)
