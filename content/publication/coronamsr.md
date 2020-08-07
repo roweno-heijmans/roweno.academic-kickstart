@@ -34,7 +34,7 @@ math = true
 # Does the content use source code highlighting?
 highlight = true
 
-url_pdf = "https://link.springer.com/content/pdf/10.1007/s10640-020-00441-0.pdf"
+url_pdf = "https://link.springer.com/article/10.1007/s10640-020-00441-0"
 
 url_custom = [{name = "Working Paper version", url = "files/ere.pdf"}]
 
