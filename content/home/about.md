@@ -34,6 +34,8 @@ weight = 5
 
 Welcome to my website! I am a PhD candidate in economics at [Tilburg University](https://research.tilburguniversity.edu/en/persons/roweno-jrk-heijmans/), supervised by [Eric van Damme](https://research.tilburguniversity.edu/en/persons/eric-van-damme) and [Reyer Gerlagh](http://www.gerlagh.nl/).
 
+I am on the (European and American) job market this academic year!
+
 
 My research interests are environmental economics and game theory, in particular games of incomplete information.
 
