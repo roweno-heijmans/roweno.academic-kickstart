@@ -38,6 +38,4 @@ I will be available for interviews at the 2020 / 2021 EJM and ASSA job market me
 
 My research interests are environmental economics and game theory, in particular games of incomplete information.
 
-I participate in the [Tilburg Behavioral Economics Reading Group](https://behavioralreadinggroup.weebly.com/) and the [Internal](https://www.tilburguniversity.edu/about/schools/economics-and-management/news/events/seminars/economics-workshops/) and [External](https://www.tilburguniversity.edu/about/schools/economics-and-management/news/events/seminars/economics/) departmental seminar series at Tilburg University. I am also affiliated to the [Tilburg Sustainability Center](https://www.tilburguniversity.edu/research/institutes-and-research-groups/tsc).
-
 In my (non-existent) free time, I play the violin. Colleague [Sjak Smulders](https://research.tilburguniversity.edu/en/persons/sjak-smulders) and I from time to time force upon our fellow economists a [concert](https://twitter.com/TiUEconomics/status/1111204863382380544) in which we play music of our own choosing.
