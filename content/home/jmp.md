@@ -31,7 +31,7 @@ list_format = 1
 #  4: Technical report
 #  5: Book
 #  6: Book chapter
-publication_type = "0"
+publication_type = "9"
 
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
