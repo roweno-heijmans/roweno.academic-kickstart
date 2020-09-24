@@ -199,6 +199,7 @@ enableGitInfo = false
     'Book section',  # 6
     'Working paper', # 7
     'Work in progress', #8
+    'job market paper', #9
   ]
 
   # Configuration of talk pages.
@@ -279,26 +280,31 @@ enableGitInfo = false
   name = "Home"
   url = "#about"
   weight = 1
+  
+  [[menu.main]]
+  name = "Job Market Paper"
+  url = "#jmp"
+  weight = 2
 
 [[menu.main]]
   name = "Publications"
   url = "#pubs"
-  weight = 2
+  weight = 3
   
   [[menu.main]]
   name = "Working papers"
   url = "#wp"
-  weight = 3
+  weight = 4
   
   [[menu.main]]
   name = "Work in progress"
   url = "#wip"
-  weight = 4
+  weight = 5
   
     [[menu.main]]
   name = "Other"
   url = "#other"
-  weight = 5
+  weight = 6
 
 # [[menu.main]]
 #  name = "Conferences"
@@ -313,12 +319,12 @@ enableGitInfo = false
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 6
+  weight = 7
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 7
+  weight = 8
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
