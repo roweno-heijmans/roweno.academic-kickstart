@@ -7,7 +7,7 @@ title = "Climate-Conscious Consumers and the Buy, Bank, Burn Program"
 date = "2019-06-13"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["R. Gerlagh","R.J.R.K. Heijmans"]
+authors = ["[R. Gerlagh](http://www.gerlagh.nl)","R.J.R.K. Heijmans"]
 # Publication type.
 # Legend:
 # 0 = Uncategorized
