@@ -4,7 +4,7 @@ abstract = "We develop a dynamic regulation game for a stock externality under a
 abstract_short = ""
 
 title = "Regulating Stock Externalities"
-date = "2018-10-18"
+date = "2020-10-03"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["R. Gerlagh", "R.J.R.K. Heijmans"]
@@ -21,7 +21,7 @@ authors = ["R. Gerlagh", "R.J.R.K. Heijmans"]
 publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted."
+publication = "Submitted"
 publication_short = ""
 
 # Is this a selected publication? (true/false)
