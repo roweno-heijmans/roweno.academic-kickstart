@@ -7,7 +7,7 @@ title = "Endogenous Emission Caps Always Induce a Green Paradox"
 date = "2019-09-10"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = `["[R. Gerlagh](http://www.gerlagh.nl)", "R.J.R.K. Heijmans", "[K.E. Rosendahl](https://www.nmbu.no/emp/knut.einar.rosendahl)"]`
+authors = `[["R. Gerlagh"](http://www.gerlagh.nl), "R.J.R.K. Heijmans", "[K.E. Rosendahl](https://www.nmbu.no/emp/knut.einar.rosendahl)"]`
 
 # Publication type.
 # Legend:
@@ -34,5 +34,5 @@ math = true
 # Does the content use source code highlighting?
 highlight = true
 
-url_pdf = "files/greenparadox.pdf"
+url_pdf = "https://www.dropbox.com/sh/17ukdnv3uycy6pl/AACnakIvUFFTPsVWu9ZcDj4pa?dl=0"
 +++
