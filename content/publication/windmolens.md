@@ -7,7 +7,7 @@ title = "Veilen of vergelijken voor het winnen van windenergie op zee?"
 date = "2018-09-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Eric van Damme", "Reyer Gerlagh", "Roweno Heijmans", "Bert Willems"]
+authors = ["[Eric van Damme](https://research.tilburguniversity.edu/en/persons/eric-van-damme)", "[Reyer Gerlagh](http://www.gerlagh.nl)", "Roweno Heijmans", "[Bert Willems](https://research.tilburguniversity.edu/en/persons/bert-willems)"]
 
 # Publication type.
 # Legend:
