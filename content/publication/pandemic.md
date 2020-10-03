@@ -7,7 +7,7 @@ title = "Efficient Epidemics: Contagion, Control, and Cooperation in a Global Ga
 date = "2020-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["R.J.R.K. Heijmans", "A. Moura"]
+authors = ["R.J.R.K. Heijmans", "[A. Moura](http://www.anamoura.site)"]
 # Publication type.
 # Legend:
 # 0 = Uncategorized
