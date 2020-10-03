@@ -20,7 +20,7 @@ authors = ["R.J.R.K. Heijmans", "A. Moura"]
 publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
-publication = "[Webversion](https://www.dropbox.com/sh/61uft5xqe5rcf0k/AABjVFjHpbFAnC0ZXhiFeccya?dl=0)"
+publication = ""
 publication_short = ""
 
 # Is this a selected publication? (true/false)
@@ -33,5 +33,7 @@ math = true
 # Does the content use source code highlighting?
 highlight = true
 
+
+url_pdf = "https://www.dropbox.com/sh/61uft5xqe5rcf0k/AABjVFjHpbFAnC0ZXhiFeccya?dl=0"
 +++
 
