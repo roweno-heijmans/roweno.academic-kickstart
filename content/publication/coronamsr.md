@@ -7,7 +7,7 @@ title = "COVID-19 tests the Market Stability Reserve"
 date = "2020-06-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["[R. Gerlagh](http://www.gerlagh.nl)", "R.J.R.K. Heijmans", "K.E. Rosendahl"]
+authors = ["[R. Gerlagh](http://www.gerlagh.nl)", "R.J.R.K. Heijmans", "[K.E. Rosendahl](https://www.nmbu.no/emp/knut.einar.rosendahl)"]
 
 # Publication type.
 # Legend:
