@@ -1,6 +1,6 @@
 +++
 # Abstract and optional shortened version.
-abstract = "[Webversion](https://esb.nu/esb/20055600/hervorming-van-europees-emissiehandelssysteem-is-effectief-en-biedt-kansen)"
+abstract = ""
 abstract_short = ""
 
 title = "Hervorming van Europees emissiehandelssysteem is effectief en biedt kansen"
@@ -33,5 +33,6 @@ math = true
 # Does the content use source code highlighting?
 highlight = true
 
+url_pdf = "https://esb.nu/esb/20055600/hervorming-van-europees-emissiehandelssysteem-is-effectief-en-biedt-kansen"
 +++
 
