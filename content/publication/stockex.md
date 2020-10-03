@@ -7,7 +7,7 @@ title = "Regulating Stock Externalities"
 date = "2020-10-03"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["R. Gerlagh", "R.J.R.K. Heijmans"]
+authors = ["[R. Gerlagh](http://www.gerlagh.nl)", "R.J.R.K. Heijmans"]
 
 # Publication type.
 # Legend:
