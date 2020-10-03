@@ -7,7 +7,7 @@ title = "Regulating Global Externalities"
 date = "2019-01-10"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["R.J.R.K. Heijmans", "R. Gerlagh"]
+authors = ["R.J.R.K. Heijmans", "[R. Gerlagh](http://www.gerlagh.nl)"]
 
 # Publication type.
 # Legend:
