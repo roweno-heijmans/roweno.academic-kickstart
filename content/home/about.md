@@ -32,7 +32,7 @@ weight = 5
 
 # Biography
 
-Welcome to my website! I am a PhD candidate in economics at [Tilburg University](https://research.tilburguniversity.edu/en/persons/roweno-jrk-heijmans/), supervised by [Eric van Damme](https://research.tilburguniversity.edu/en/persons/eric-van-damme) and [Reyer Gerlagh](http://www.gerlagh.nl/). I am an applied microeconomic theorist interested in environmental economics and game theory, in particular global games.
+Welcome to my website! I am an applied microeconomic theorist interested in environmental economics and game theory, in particular global games. My supervisors are [Eric van Damme](https://research.tilburguniversity.edu/en/persons/eric-van-damme) and [Reyer Gerlagh](http://www.gerlagh.nl/).
 
 I will be available for interviews at the 2020 / 2021 EJM and ASSA job market meetings! My job market paper can be found [here](https://www.roweno.nl/#jmp). For a copy of my C.V., click [here](https://surfdrive.surf.nl/files/index.php/s/O9FvdpTtkN1wBBR).
 
