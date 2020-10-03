@@ -12,5 +12,5 @@ weight = 10
 
 
 +++
-A full version of my CV is available [here](https://surfdrive.surf.nl/files/index.php/s/O9FvdpTtkN1wBBR).
+A full version of my CV is available [here](https://www.dropbox.com/sh/rcmx6ygwkzb7ano/AACIuhpuIH60JdJ5alXLfpqla?dl=0).
 
