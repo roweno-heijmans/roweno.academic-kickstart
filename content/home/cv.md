@@ -9,7 +9,7 @@ title = "CV"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 15
+weight = 10
 
 # Number of publications to list.
 count = 100
