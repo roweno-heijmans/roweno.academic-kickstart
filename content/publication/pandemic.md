@@ -17,7 +17,7 @@ authors = ["R.J.R.K. Heijmans", "A. Moura"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["8"]
+publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
 publication = "[Webversion](https://www.dropbox.com/sh/61uft5xqe5rcf0k/AABjVFjHpbFAnC0ZXhiFeccya?dl=0)"
