@@ -7,7 +7,7 @@ title = "Can The Social Cost of Carbon be Calcuated? YES"
 date = "2019-09-10"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["R. Gerlagh", "R.J.R.K. Heijmans"]
+authors = ["[R. Gerlagh](http://www.gerlagh.nl)", "R.J.R.K. Heijmans"]
 
 # Publication type.
 # Legend:
