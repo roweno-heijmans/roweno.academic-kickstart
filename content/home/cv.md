@@ -12,5 +12,5 @@ weight = 10
 
 
 +++
-A full version of my CV is available {{% staticref "/files/cv - AM.pdf" "newtab" %}}here{{% /staticref %}}.
+A full version of my CV is available [here](https://surfdrive.surf.nl/files/index.php/s/O9FvdpTtkN1wBBR).
 
