@@ -34,5 +34,7 @@ math = true
 # Does the content use source code highlighting?
 highlight = true
 
-url_pdf = "files/stockex.pdf"
+
+
+url_pdf = "https://surfdrive.surf.nl/files/index.php/s/rRCA1mHbM8vmgep"
 +++
