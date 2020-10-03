@@ -7,7 +7,7 @@ title = "Hervorming van Europees emissiehandelssysteem is effectief en biedt kan
 date = "2019-09-16"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["R.J.R.K. Heijmans", "R. Gerlagh"]
+authors = ["R.J.R.K. Heijmans", "[R. Gerlagh](http://www.gerlagh.nl)"]
 # Publication type.
 # Legend:
 # 0 = Uncategorized
