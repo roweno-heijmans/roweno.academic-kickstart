@@ -13,7 +13,8 @@ weight = 5
     "Environmental Economics",
     "Game Theory",
     "Global Games",
-    "Global Public Goods",
+    "Public Economics",
+    "Policy"
   ]
 
 # List your qualifications (such as academic degrees).
