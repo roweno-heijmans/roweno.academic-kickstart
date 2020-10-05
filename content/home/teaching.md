@@ -15,8 +15,10 @@ weight = 60
 
 +++
 
-- Grondslagen Macro-economie (Dutch; 2016 - 2019)
-- Macroeconomics for EOR (2017 - 2018)
+- TA Grondslagen Macro-economie (Undergraduate, 2016 - 2020; in Dutch)
+- TA Macroeconomics for EOR (Undergraduate, 2017 - 2018)
+- TA Economics for Social Sciences (Undergraduate, 2018 - 2019)
+- TA Micro-economics 2, Game Theory, for CentER (Research Master, 2019 - 2020) 
+- TA Environmental Economics (Undergraduate, 2020)
+- BSc thesis supervision (2018-2020)
 - MSc thesis supervision (2017 - 2018)
-- Economics for Social Sciences (2018 - 2019)
-- Micro-economics 2, Game Theory, for CentER (Research Master, 2019 - 2020) 
