@@ -35,4 +35,7 @@ math = true
 highlight = true
 
 url_pdf = "https://www.dropbox.com/sh/17ukdnv3uycy6pl/AACnakIvUFFTPsVWu9ZcDj4pa?dl=0"
+
+url_custom = [{name = "Slides", url = "https://www.dropbox.com/sh/sl565t898kxutv7/AABslNuPimdOmOIrSQkZFvGwa?dl=0"}]
+
 +++
