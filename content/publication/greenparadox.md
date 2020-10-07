@@ -1,9 +1,9 @@
 +++
 # Abstract and optional shortened version.
-abstract = "For any emission trading system (ETS) with quantity-based endogenous supply of allowances, there exists a negative demand shock, e.g. induced by abatement policy, that increases aggregate supply and thus cumulative emissions. We prove this green paradox for a general model and then apply it to the details of EU ETS. In 2018, new rules for a Market Stability Reserve (MSR) were agreed on and implemented. We show that abatement policies announced in early periods but realized in the future, are inverted by the new rules and increase cumulative emissions. We provide quantitative evidence of our result for a model disciplined on the price rise in the EU ETS that followed the introduction of the MSR."
+abstract = "The Market Stability Reserve (MSR), implemented in 2018 to complement the EU emission trading system (EU ETS), is designed such that the supply of allowances responds endogenously to demand. We show that an endogenous cap such as the MSR produces a Green Paradox. Abatement policies announced early but realized in the future are counter-effective because of the MSR: they increase cumulative emissions. We present the mechanisms in a two-period model, and then provide quantitative evidence of our result for an annual model disciplined on the price rise in the EU ETS that followed the introduction of the MSR. Our results point to the need for better coordination between different policies, such as the European Green Deal. We conclude with suggestions to improve the workings of an endogenous cap, ahead of the MSR review scheduled for 2021."
 abstract_short = ""
 
-title = "Endogenous Emission Caps Always Induce a Green Paradox"
+title = "An Endogenous Emission Cap Produces a Green Paradox"
 date = "2019-09-10"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
