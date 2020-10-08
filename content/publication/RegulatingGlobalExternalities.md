@@ -36,4 +36,7 @@ highlight = true
 
 url_pdf = "files/RegulatingGlobalExternalities.pdf"
 
+url_custom = [{name = "Slides", url = "https://www.roweno.nl/files/RegulatingGlobalExternalitiesSlides.pdf}]
+
+
 +++

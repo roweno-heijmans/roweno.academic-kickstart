@@ -12,5 +12,5 @@ weight = 35
 
 
 +++
-A full version of my CV is available [here](https://www.dropbox.com/sh/rcmx6ygwkzb7ano/AACIuhpuIH60JdJ5alXLfpqla?dl=0).
+A full version of my CV is available [here](http://www.roweno.nl/files/CV.pdf).
 

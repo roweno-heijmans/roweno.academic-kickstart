@@ -37,5 +37,6 @@ highlight = true
 
 url_pdf = "files/RegulatingStockExternalities.pdf"
 
-url_custom = [{name = "Slides", url = "https://www.dropbox.com/sh/w0nr40sxcehyvmi/AAD57XE6jkpP-VzH-dSJsNy0a?dl=0"}]
+url_custom = [{name = "Slides", url = "https://www.roweno.nl/files/RegulatingStockExternalitiesSlides.pdf}]
+
 +++
