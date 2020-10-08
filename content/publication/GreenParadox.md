@@ -36,6 +36,6 @@ highlight = true
 
 url_pdf = "files/GreenParadox.pdf"
 
-url_custom = [{name = "Slides", url = "https://www.roweno.nl/files.GreenParadoxSlides.pdf}]
+url_custom = [{name = "Slides", url = "https://www.roweno.nl/files/GreenParadoxSlides.pdf}]
 
 +++
