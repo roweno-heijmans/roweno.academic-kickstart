@@ -36,5 +36,7 @@ highlight = true
 
 url_pdf = "files/EfficientEpidemics.pdf"
 
+url_custom = [{name = "Slides", url = "https://www.roweno.nl/files.EfficientEpidemicsSlides.pdf}]
+
 +++
 
