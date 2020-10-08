@@ -280,16 +280,12 @@ enableGitInfo = false
   name = "Home"
   url = "#about"
   weight = 1
-  
-  [[menu.main]]
-  name = "CV"
-  url = "#cv"
-  weight = 2
+ 
   
   [[menu.main]]
   name = "Job Market Paper"
   url = "#jmp"
-  weight = 3
+  weight = 2
 
 [[menu.main]]
   name = "Publications"
@@ -300,6 +296,11 @@ enableGitInfo = false
   name = "Working papers"
   url = "#wp"
   weight = 4
+  
+    [[menu.main]]
+  name = "CV"
+  url = "#cv"
+  weight = 5
 
   
     [[menu.main]]
