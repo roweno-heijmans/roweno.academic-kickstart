@@ -34,8 +34,7 @@ math = true
 highlight = true
 
 
-url_pdf = "https://www.dropbox.com/sh/61uft5xqe5rcf0k/AABjVFjHpbFAnC0ZXhiFeccya?dl=0"
+url_pdf = "files/EfficientEpidemics.pdf"
 
-url_custom = [{name = "Slides", url = "https://www.dropbox.com/sh/1zgwo1k3dpat414/AAD6QAQlsr8Q4jfXxbqe2KZoa?dl=0"}]
 +++
 
