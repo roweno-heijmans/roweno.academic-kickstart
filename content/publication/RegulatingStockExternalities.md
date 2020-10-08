@@ -35,8 +35,7 @@ math = true
 highlight = true
 
 
-
-url_pdf = "https://surfdrive.surf.nl/files/index.php/s/rRCA1mHbM8vmgep"
+url_pdf = "files/RegulatingStockExternalities.pdf"
 
 url_custom = [{name = "Slides", url = "https://www.dropbox.com/sh/w0nr40sxcehyvmi/AAD57XE6jkpP-VzH-dSJsNy0a?dl=0"}]
 +++
