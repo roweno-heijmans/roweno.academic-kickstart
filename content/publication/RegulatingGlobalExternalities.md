@@ -34,7 +34,6 @@ math = true
 # Does the content use source code highlighting?
 highlight = true
 
-url_pdf = "files/globalex.pdf"
+url_pdf = "files/RegulatingGlobalExternalities.pdf"
 
-url_custom = [{name = "Slides", url = "https://www.dropbox.com/sh/420isntfldht8z8/AAAQGCWUAA5jX8tlz2VMHQIMa?dl=0"}]
 +++
