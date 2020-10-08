@@ -35,7 +35,7 @@ highlight = true
 
 url_pdf = "files/BuyBankBurn.pdf"
 
-url_custom = [{name = "Slides", url = "https://www.dropbox.com/sh/gii2p8rqct1of2y/AADdjSp4jyWXOmdlhXv4w5fEa?dl=0"}]
+url_custom = [{name = "Slides", url = "https://www.roweno.nl/files.BuyBankBurnSlides.pdf}]
 
 
 +++
