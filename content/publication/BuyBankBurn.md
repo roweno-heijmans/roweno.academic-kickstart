@@ -33,7 +33,7 @@ math = true
 # Does the content use source code highlighting?
 highlight = true
 
-url_pdf = "https://www.nature.com/articles/s41558-019-0482-0.epdf?author_access_token=cLnbfPP-6HiGGH1AKi6cadRgN0jAjWel9jnR3ZoTv0MY1SndHPiqaDEhtnPNdSCulNqf6icFPnWFgEaKdZByIgHhFIrZ-DTWTb3_qEsHpLPLwSjwa30ypN8dCoSRi8dr9LAhHWFWFmu1gDO-G1XjEg%3D%3D"
+url_pdf = "files/BuyBankBurn.pdf"
 
 url_custom = [{name = "Slides", url = "https://www.dropbox.com/sh/gii2p8rqct1of2y/AADdjSp4jyWXOmdlhXv4w5fEa?dl=0"}]
 
