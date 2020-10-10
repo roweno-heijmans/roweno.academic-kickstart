@@ -33,9 +33,9 @@ math = true
 # Does the content use source code highlighting?
 highlight = true
 
-url_pdf = "files/BuyBankBurn.pdf"
+url_pdf = "https://www.nature.com/articles/s41558-019-0482-0"
 
-url_custom = [{name = "Slides", url = "https://www.roweno.nl/files/BuyBankBurnSlides.pdf"}]
+url_custom = [{name = "Slides", url = "http://www.roweno.nl/files/BuyBankBurnSlides.pdf"}]
 
 
 +++
