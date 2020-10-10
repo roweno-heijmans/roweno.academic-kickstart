@@ -1,6 +1,6 @@
 +++
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "By manipulating EU ETS through the Buy, Bank, Burn program, unregulated emissions are compensated while a substantial part of the burden is levied on regulated sectors. This distorts the balance between regulated firms and non-regulated projects, allowing climate-conscious consumers to be virtuous at the cost of others."
 abstract_short = ""
 
 title = "Climate-Conscious Consumers and the Buy, Bank, Burn Program"
