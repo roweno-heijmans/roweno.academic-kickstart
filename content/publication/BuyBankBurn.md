@@ -35,7 +35,7 @@ highlight = true
 
 url_pdf = "https://www.nature.com/articles/s41558-019-0482-0"
 
-url_custom = [{name = "Slides", url = "http://www.roweno.nl/publication/files/BuyBankBurnSlides.pdf"}]
+url_custom = [{name = "Slides", url = "http://www.roweno.nl/files/BuyBankBurnSlides.pdf"}]
 
 
 +++
