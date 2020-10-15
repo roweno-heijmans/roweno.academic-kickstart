@@ -1,6 +1,6 @@
 +++
 # Abstract and optional shortened version.
-abstract = "We compare the decrease in European energy demand and CO2 emissions during the financial crisis 2008-2009 with the COVID-19 expected drop in demandand emissions, and the price response of the EU Emission Trading System (EUETS). We ask whether the rather limited current price reduction may be due tothe Market Stability Reserve (MSR), implemented in the EU ETS between thetwo crisis. Stylized facts and basic theory are complemented with simulations based on a model of the EU ETS. Together, they suggest a mixed result. The MSR stabilizes the EU ETS price in turbulent times, but less than perfectly. We show that the more persistent the COVID-19 shock is, the less the MSR is able to serve its purpose."
+abstract = "We compare the decrease in European energy demand and CO2 emissions during the financial crisis 2008-2009 with the COVID-19 expected drop in demandand emissions, and the price response of the EU Emission Trading System (EU ETS). We ask whether the rather limited current price reduction may be due tothe Market Stability Reserve (MSR), implemented in the EU ETS between thetwo crisis. Stylized facts and basic theory are complemented with simulations based on a model of the EU ETS. Together, they suggest a mixed result. The MSR stabilizes the EU ETS price in turbulent times, but less than perfectly. We show that the more persistent the COVID-19 shock is, the less the MSR is able to serve its purpose."
 abstract_short = ""
 
 title = "COVID-19 tests the Market Stability Reserve"
