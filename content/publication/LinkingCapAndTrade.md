@@ -4,7 +4,7 @@ abstract = "The question in which we are interested is how a market inhabited by
 abstract_short = ""
 
 title = "Linking Cap-and-Trade Schemes Under Asymmetric Uncertainty"
-date = "2019-01-10"
+date = "2020-11-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["R.J.R.K. Heijmans", "[R. Gerlagh](http://www.gerlagh.nl)"]
