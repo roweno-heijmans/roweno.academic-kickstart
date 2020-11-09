@@ -1,10 +1,10 @@
 +++
 # Abstract and optional shortened version.
-abstract = "The question in which we are interested is how a market inhabited by multiple agents, about whom we are differentially uncertain, and who trade goods the use of which imposes a negative effect on others, is to be ideally regulated. We show that a priori asymmetric uncertainty, when combined with a posteriori observed outcomes, is a rich source of information that can be used to reduce aggregate uncertainty. The observation implies that whereas asymmetric information usually entails a cost on welfare, it can help achieve greater efficiency in regulation."
+abstract = "Recent years have seen a rapid increase in the number of cap-and-trade schemes to mitigate greenhouse gas emissions. With many independently operating systems, policy discussions have turned to the topic of linking. This paper offers a theory of optimal linking. We show that an efficient linkage adjusts the joint cap  in response to inter-scheme trades of allowances. Compared to standard linking, our proposal has two major advantages. First, it increases global welfare by efficiently adjusting the cap in response to private information implicitly contained in inter-scheme trades. Second, post-linking price volatility is lower with an endogenous cap. The latter advantage may alleviate existing political barriers to linking such as imported price volatility. A key concept in our analysis is asymmetric uncertainty. Interestingly, while asymmetric information generally decreases welfare, asymmetric uncertainty compensates for part (or, in extreme cases, all) of that welfare loss."
 abstract_short = ""
 
 title = "Linking Cap-and-Trade Schemes Under Asymmetric Uncertainty"
-date = "2019-01-10"
+date = "2020-02-02"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["R.J.R.K. Heijmans", "[R. Gerlagh](http://www.gerlagh.nl)"]
