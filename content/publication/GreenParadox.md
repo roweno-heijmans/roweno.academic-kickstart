@@ -21,7 +21,7 @@ authors = ["[R. Gerlagh](http://www.gerlagh.nl)", "R.J.R.K. Heijmans", "[K.E. Ro
 publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
-publication = "R&R at Economic Policy"
+publication = "Conditionally accepted for publication in Economic Policy"
 publication_short = ""
 
 # Is this a selected publication? (true/false)
