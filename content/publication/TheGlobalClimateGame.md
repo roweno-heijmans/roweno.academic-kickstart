@@ -4,7 +4,7 @@ abstract = "The present paper studies emissions abatement in a global game of te
 abstract_short = ""
 
 title = "The Global Climate Game"
-date = "2020-08-08"
+date = "2020-11-11"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["R.J.R.K. Heijmans"]
@@ -18,7 +18,7 @@ authors = ["R.J.R.K. Heijmans"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["7"]
+publication_types = ["9"]
 
 # Publication name and optional abbreviated version.
 publication = ""
