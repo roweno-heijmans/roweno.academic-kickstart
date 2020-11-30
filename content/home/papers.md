@@ -19,7 +19,7 @@ weight = 11
 - Gerlagh, R., & Heijmans, R.J.R.K. (2019). [Climate-Conscious Consumers and the Buy, Bank, Burn Program](https://www.nature.com/articles/s41558-019-0482-0). Nature Climate Change, 9(6), 431-433.
 - Gerlagh, R., Heijmans, R.J.R.K., & Rosendahl, K.E. (2020). [COVID-19 Tests the Market Stability Reserve](https://link.springer.com/article/10.1007/s10640-020-00441-0). Environmental and Resource Economics, 76(4), 855-865.
 - Gerlagh, R., Heijmans, R.J.R.K., & Rosendahl, K. E. (2020). [An Endogenous Emission Cap Produces a Green Paradox](https://www.roweno.nl/files/GreenParadox.pdf). Conditionally accepted for publication in Economic Policy.
-- Gerlagh, R., & Heijmans, R.J.R.K. (2020). [Regulating stock externalities](https://www.roweno.nl/files/RegulatingStockExternalities.pdf). Subnmitted.
+- Gerlagh, R., & Heijmans, R.J.R.K. (2020). [Regulating stock externalities](https://www.roweno.nl/files/RegulatingStockExternalities.pdf). Submitted.
 - Heijmans, R.J.R.K., & Moura, A. (2020). [Efficient Epidemics: Contagion, Control, and Cooperation in a Global Game](https://www.roweno.nl/files/EfficientEpidemics.pdf). Submitted.
 - Heijmans, R.J.R.K., & Gerlagh, R. (2020). [Linking Cap-and-trade Schemes Under Asymmetric Uncertainty](https://www.roweno.nl/files/LinkingCapAndTrade.pdf).
 - Heijmans, R.J.R.K. (2020). [Sequential Global Games](https://www.roweno.nl/files/SequentialGlobalGames.pdf).
