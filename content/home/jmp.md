@@ -9,7 +9,7 @@ title = "Job Market Paper"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 11
+weight = 12
 
 # Number of publications to list.
 count = 100

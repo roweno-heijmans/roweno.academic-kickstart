@@ -283,36 +283,40 @@ enableGitInfo = false
   align_right = true
 
 [[menu.main]]
-  name = "Home"
+  name = "Bio"
   url = "#about"
   weight = 1
  
+   [[menu.main]]
+  name = "Papers"
+  url = "#papers"
+  weight = 2
   
   [[menu.main]]
-  name = "Job Market Papers"
+  name = "Job Market Paper"
   url = "#jmp"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name = "Publications"
   url = "#pubs"
-  weight = 3
+  weight = 4
   
   [[menu.main]]
   name = "Working papers"
   url = "#wp"
-  weight = 4
+  weight = 5
   
     [[menu.main]]
   name = "CV"
   url = "#cv"
-  weight = 5
+  weight = 6
 
   
     [[menu.main]]
   name = "Other"
   url = "#other"
-  weight = 5
+  weight = 7
 
 # [[menu.main]]
 #  name = "Conferences"
@@ -327,12 +331,12 @@ enableGitInfo = false
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 6
+  weight = 8
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 7
+  weight = 9
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
