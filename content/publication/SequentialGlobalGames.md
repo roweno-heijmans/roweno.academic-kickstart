@@ -33,6 +33,6 @@ math = true
 # Does the content use source code highlighting?
 highlight = true
 
-url_pdf = "files/SequentialGlobalGames.pdf"
+# url_pdf = "files/SequentialGlobalGames.pdf"
 
 +++
