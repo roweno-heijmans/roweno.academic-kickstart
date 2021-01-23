@@ -36,6 +36,8 @@ highlight = true
 
 url_pdf = "files/TheGlobalClimateGame.pdf"
 
+url_custom = [{name = "Slides", url = "https://www.roweno.nl/files/TheGlobalClimateGameSlides.pdf"}]
+
 
 
 +++
