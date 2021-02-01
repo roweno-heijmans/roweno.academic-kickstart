@@ -4,7 +4,7 @@ abstract = "The Market Stability Reserve (MSR), implemented in 2018 to complemen
 abstract_short = ""
 
 title = "An Endogenous Emission Cap Produces a Green Paradox"
-date = "2020-10-10"
+date = "2021-01-24"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["[R. Gerlagh](http://www.gerlagh.nl)", "R.J.R.K. Heijmans", "[K.E. Rosendahl](https://www.nmbu.no/emp/knut.einar.rosendahl)"]
