@@ -16,7 +16,7 @@ title = "Roweno J. R. K. Heijmans"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2020 R.J.R.K. Heijmans"
+copyright = "&copy; 2021 R.J.R.K. Heijmans"
 
 theme = "academic"
 enableEmoji = true
@@ -112,7 +112,7 @@ enableGitInfo = false
   description = ""
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-  sharing_image = "32372816_1102784879864008_6850959366720323584_n.jpg"
+  sharing_image = "Roweno-klein.jpg"
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
   twitter = ""
@@ -307,10 +307,10 @@ enableGitInfo = false
   url = "#wp"
   weight = 5
   
-    [[menu.main]]
-  name = "CV"
-  url = "#cv"
-  weight = 6
+ [[menu.main]]
+    name = "CV"
+    url = "files/cv.pdf"
+     weight = 6
 
   
     [[menu.main]]
@@ -338,12 +338,6 @@ enableGitInfo = false
   url = "#contact"
   weight = 9
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[menu.main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 7
 
 # Search.
 #[params.search]
