@@ -18,10 +18,10 @@ authors = ["[R. Gerlagh](http://www.gerlagh.nl)", "R.J.R.K. Heijmans", "[K.E. Ro
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["7"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Conditionally accepted for publication in Economic Policy"
+publication = "Forthcoming in Economic Policy"
 publication_short = ""
 
 # Is this a selected publication? (true/false)
