@@ -34,6 +34,6 @@ weight = 5
 
 Welcome to my website! I am an applied microeconomic theorist interested in environmental economics and game theory, in particular global games. My supervisors are [Eric van Damme](https://research.tilburguniversity.edu/en/persons/eric-van-damme) and [Reyer Gerlagh](http://www.gerlagh.nl/).
 
-I will be available for interviews during the 2021 "Job Market Scramble"! 
+I am on the 2021 Job Market! 
 
 In my (non-existent) free time, I play the violin. Colleague [Sjak Smulders](https://research.tilburguniversity.edu/en/persons/sjak-smulders) and I from time to time force upon our fellow economists a [concert](https://twitter.com/TiUEconomics/status/1111204863382380544) in which we play music of our own choosing.
