@@ -18,6 +18,11 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
   
+  [[education.courses]]
+  course = "PhD in Economics (expected)"
+  institution = "Tilburg University"
+  year = 2021
+  
 [[education.courses]]
   course = "MSc (Research) Economics"
   institution = "Tilburg University"
