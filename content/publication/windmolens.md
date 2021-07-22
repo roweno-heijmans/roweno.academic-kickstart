@@ -34,6 +34,6 @@ math = true
 # Does the content use source code highlighting?
 highlight = true
 
-url_pdf = "files/WinenergieOpZee.pdf"
+url_pdf = "files/WindenergieOpZee.pdf"
 
 +++
