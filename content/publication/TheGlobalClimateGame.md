@@ -4,7 +4,7 @@ abstract = "I study emissions abatement in a global game of technological invest
 abstract_short = ""
 
 title = "The Global Climate Game"
-date = "2020-11-11"
+date = "2021-07-07"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["R.J.R.K. Heijmans"]
