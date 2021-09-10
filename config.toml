@@ -54,21 +54,21 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Roweno J.R.K. Heijmans"
-  role = "PhD Candidate"
+  name = "Dr. Roweno J.R.K. Heijmans"
+  role = "Postdoctoral Researcher"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Tilburg University", url = "" } ]
+  organizations = [ { name = "Swedish University of Agricultural Sciences", url = "https://www.slu.se/en/departments/economics/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "Roweno-klein.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "r.j.r.k.heijmans(at)uvt(dot)nl"
-  address = "Room K302, Department of Economics, Warandelaan 2, 5037 AB Tilburg, the Netherlands"
+  address = "Room D362, Department of Economics, Ulls väg 27, 756 51 Uppsala, Sweden"
   office_hours = "By appointment"
-  phone = "+31 13 466 3196"
+  phone = ""
   skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
