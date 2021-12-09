@@ -3,7 +3,7 @@
 abstract = ""
 abstract_short = ""
 
-title = "Can The Social Cost of Carbon be Calcuated? YES"
+title = "Can The Social Cost of Carbon be Calculated? YES"
 date = "2019-09-10"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
