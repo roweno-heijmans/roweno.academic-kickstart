@@ -4,7 +4,7 @@ abstract = "I study cap-and-trade schemes where feedback mechanisms from the mar
 abstract_short = ""
 
 title = "Time Horizons and Emissions Trading"
-date = "2021-07-07"
+date = "2022-03-03"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["R.J.R.K. Heijmans"]
