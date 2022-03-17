@@ -4,7 +4,7 @@ abstract = "I study the adoption of renewable technologies to mitigate climate c
 abstract_short = ""
 
 title = "The Global Climate Game"
-date = "2021-07-07"
+date = "2022-03-03"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["R.J.R.K. Heijmans"]
@@ -36,7 +36,7 @@ highlight = true
 
 url_pdf = "files/TheGlobalClimateGame.pdf"
 
-url_custom = [{name = "Slides", url = "https://www.roweno.nl/files/TheGlobalClimateGameSlides.pdf"}]
+# url_custom = [{name = "Slides", url = "https://www.roweno.nl/files/TheGlobalClimateGameSlides.pdf"}]
 
 
 
