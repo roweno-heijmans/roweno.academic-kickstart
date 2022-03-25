@@ -293,7 +293,7 @@ enableGitInfo = false
   weight = 2
   
   [[menu.main]]
-  name = "Job Market Paper"
+  name = "Job Market Papers"
   url = "#jmp"
   weight = 3
 
