@@ -36,7 +36,7 @@ highlight = true
 
 url_pdf = "files/TimeHorizonsEmissionsTrading.pdf"
 
-# url_custom = [{name = "Slides", url = "https://www.roweno.nl/files/TheGlobalClimateGameSlides.pdf"}]
+url_custom = [{name = "Slides", url = "https://www.roweno.nl/files/TimeHorizonsEmissionsTrading_slides.pdf"}]
 
 
 
