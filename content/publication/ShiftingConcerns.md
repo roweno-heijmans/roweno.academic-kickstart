@@ -34,7 +34,7 @@ math = true
 # Does the content use source code highlighting?
 highlight = true
 
-url_custom = [{name = "PDF", url = "files/ShitingConcerns.pdf"}]
+url_pdf = "files/ShiftingConcerns.pdf"
 
 +++
 
