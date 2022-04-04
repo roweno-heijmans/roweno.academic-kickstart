@@ -17,10 +17,12 @@ weight = 11
 
 **Publications in peer-reviewed journals**
 
-- Gerlagh, R., & Heijmans, R.J.R.K. (2019). [Climate-Conscious Consumers and the Buy, Bank, Burn Program](https://www.nature.com/articles/s41558-019-0482-0). _Nature Climate Change_, 9(6), 431-433.
-- Gerlagh, R., Heijmans, R.J.R.K., & Rosendahl, K.E. (2020). [COVID-19 Tests the Market Stability Reserve](https://link.springer.com/article/10.1007/s10640-020-00441-0). _Environmental and Resource Economics_, 76(4), 855-865.
-- Gerlagh, R., Heijmans, R.J.R.K., & Rosendahl, K. E. (2021). [An Endogenous Emission Cap Produces a Green Paradox](https://academic.oup.com/economicpolicy/article/36/107/485/6178790). _Economic Policy_.
 - Gerlagh, R., Heijmans, R.J.R.K., & Rosendahl, K. E. (2022). [Shifting concerns for the EU ETS: Are carbon prices becoming too high?](https://www.roweno.nl/files/ShiftingConcerns.pdf). _Environmental Research Letters_.
+- - Gerlagh, R., Heijmans, R.J.R.K., & Rosendahl, K. E. (2021). [An Endogenous Emission Cap Produces a Green Paradox](https://academic.oup.com/economicpolicy/article/36/107/485/6178790). _Economic Policy_.
+- Gerlagh, R., Heijmans, R.J.R.K., & Rosendahl, K.E. (2020). [COVID-19 Tests the Market Stability Reserve](https://link.springer.com/article/10.1007/s10640-020-00441-0). _Environmental and Resource Economics_, 76(4), 855-865.
+- Gerlagh, R., & Heijmans, R.J.R.K. (2019). [Climate-Conscious Consumers and the Buy, Bank, Burn Program](https://www.nature.com/articles/s41558-019-0482-0). _Nature Climate Change_, 9(6), 431-433.
+
+
 
 **Working papers**
 
