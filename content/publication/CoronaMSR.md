@@ -36,6 +36,6 @@ highlight = true
 
 url_pdf = "https://link.springer.com/article/10.1007/s10640-020-00441-0"
 
-url_custom = [{name = "Working Paper version", url = "files/CoronaMSR.pdf"}]
+# url_custom = [{name = "Working Paper version", url = "files/CoronaMSR.pdf"}]
 
 +++
