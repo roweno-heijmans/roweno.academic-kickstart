@@ -12,7 +12,6 @@ weight = 5
   interests = [
     "Environmental Economics",
     "Game Theory",
-    "Global Games",
     "Public Economics",
     "Emissions Trading",
     "Policy",
