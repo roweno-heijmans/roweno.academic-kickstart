@@ -14,7 +14,6 @@ weight = 5
     "Game Theory",
     "Public Economics",
     "Emissions Trading",
-    "Policy",
   ]
 
 # List your qualifications (such as academic degrees).
