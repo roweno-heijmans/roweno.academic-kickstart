@@ -39,6 +39,6 @@ weight = 5
 
 Welcome to my website! I am an applied economic theorist working environmental economics and game theory, global games in particular. My home base is the Department of Economics, Swedish University of Agricultural Sciences, Sweden. I also co-organize the seminar series at my department.
 
-I receive a Jan Wallanders och Tom Hedelius stiftelse program grant, of which I am the principal investigator.
+I receive a **Jan Wallanders och Tom Hedelius stiftelse** program grant (P22-0229), of which I am the principal investigator.
 
 In my (non-existent) free time, I play the violin. Colleague [Sjak Smulders](https://research.tilburguniversity.edu/en/persons/sjak-smulders) and I from time to time force upon our fellow economists a [concert](https://twitter.com/TiUEconomics/status/1111204863382380544) in which we play music of our own choosing.
