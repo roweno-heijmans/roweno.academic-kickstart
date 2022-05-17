@@ -11,9 +11,9 @@ weight = 5
 [interests]
   interests = [
     "Environmental Economics",
-    "Game Theory",
     "Public Economics",
-    "Emissions Trading",
+    "Game Theory",
+    "Carbon pricing",
   ]
 
 # List your qualifications (such as academic degrees).
@@ -37,7 +37,7 @@ weight = 5
 
 # Biography
 
-Welcome to my website! I am an applied economic theorist working environmental economics and game theory, global games in particular. My home base is the Department of Economics, Swedish University of Agricultural Sciences, Sweden. I also co-organize the seminar series at my department.
+Welcome to my website! I am an applied economic theorist working environmental economics, public economics, and game theory. My home base is the Department of Economics, Swedish University of Agricultural Sciences, Sweden. I also co-organize the seminar series at my department.
 
 I receive a **Jan Wallanders och Tom Hedelius stiftelse** program grant (P22-0229), of which I am the principal investigator.
 
