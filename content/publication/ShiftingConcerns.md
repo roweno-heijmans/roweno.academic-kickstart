@@ -34,7 +34,7 @@ math = true
 # Does the content use source code highlighting?
 highlight = true
 
-url_pdf = "files/ShiftingConcerns.pdf"
+url_pdf = "https://iopscience.iop.org/article/10.1088/1748-9326/ac63d6"
 
 +++
 
