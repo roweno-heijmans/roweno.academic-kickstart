@@ -3,12 +3,11 @@
 abstract = ""
 abstract_short = ""
 
-title = "Can The Social Cost of Carbon be Calculated? YES"
-date = "2019-09-10"
+title = "Toekomstbestendig klimaatbeleid vergt prijsband voor CO2-emissierechten"
+date = "2021-12-23"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["[R. Gerlagh](http://www.gerlagh.nl)", "R.J.R.K. Heijmans"]
-
+authors = ["R.J.R.K. Heijmans"]
 # Publication type.
 # Legend:
 # 0 = Uncategorized
@@ -21,7 +20,7 @@ authors = ["[R. Gerlagh](http://www.gerlagh.nl)", "R.J.R.K. Heijmans"]
 publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "Book chapter, Routledge"
+publication = "Economics Statistische Berichten"
 publication_short = ""
 
 # Is this a selected publication? (true/false)
@@ -34,5 +33,5 @@ math = true
 # Does the content use source code highlighting?
 highlight = true
 
-url_pdf = ""
+url_pdf = "https://esb.nu/esb/20069106/toekomstbestendig-klimaatbeleid-vergt-prijsband-voor-co-emissierechten"
 +++

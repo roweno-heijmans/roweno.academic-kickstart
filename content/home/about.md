@@ -15,6 +15,7 @@ weight = 5
     "Global Games",
     "Public Economics",
     "Emissions Trading",
+    "Policy",
   ]
 
 # List your qualifications (such as academic degrees).
@@ -38,6 +39,8 @@ weight = 5
 
 # Biography
 
-Welcome to my website! I am an applied microeconomist interested in environmental economics and game theory, global games in particular.
+Welcome to my website! I am an applied economic theorist interested in environmental economics and game theory, global games in particular. My home base is the Department of Economics, Swedish University of Agricultural Sciences, Sweden.
+
+I am also co-organizer of the internal and external seminar series at my department.
 
 In my (non-existent) free time, I play the violin. Colleague [Sjak Smulders](https://research.tilburguniversity.edu/en/persons/sjak-smulders) and I from time to time force upon our fellow economists a [concert](https://twitter.com/TiUEconomics/status/1111204863382380544) in which we play music of our own choosing.
