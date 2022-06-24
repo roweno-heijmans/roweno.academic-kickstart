@@ -37,8 +37,8 @@ weight = 5
 
 # Biography
 
-Welcome to my website! I am an applied economic theorist working on environmental economics, public economics, and game theory. My home base is the Department of Economics, Swedish University of Agricultural Sciences, Sweden. I also co-organize the seminar series at my department.
+Welcome to my website! I am an applied economic theorist working on environmental economics, public economics, and game theory. My home base is the Department of Economics, Swedish University of Agricultural Sciences, Sweden. I also co-organize the seminar series at my department and teach Mathematics for Economists as a guest lecturer in the [Central-German Doctoral Program Economics](https://www.iwh-halle.de/en/career/doctoral-programme/faculty/).
 
-I receive a **Jan Wallanders och Tom Hedelius stiftelse** program grant (P22-0229), of which I am the principal investigator.
+I am the principal investigator of a **Jan Wallanders och Tom Hedelius stiftelse** program grant (P22-0229).
 
 In my (non-existent) free time, I play the violin. Colleague [Sjak Smulders](https://research.tilburguniversity.edu/en/persons/sjak-smulders) and I from time to time force upon our fellow economists a [concert](https://twitter.com/TiUEconomics/status/1111204863382380544) in which we play music of our own choosing.
