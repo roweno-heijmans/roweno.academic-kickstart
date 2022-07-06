@@ -291,11 +291,6 @@ enableGitInfo = false
   name = "Papers"
   url = "#papers"
   weight = 2
-  
-  [[menu.main]]
-  name = "Job Market Papers"
-  url = "#jmp"
-  weight = 3
 
 [[menu.main]]
   name = "Publications"
