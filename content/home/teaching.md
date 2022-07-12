@@ -15,12 +15,20 @@ weight = 60
 
 +++
 
-- Lecturer Mathematics for Economists (PhD, 2022)
-- Lecturer Management of Biological Resources (Graduate, 2021)
-- Thesis supervision (Graduate and undergraduate, 2018--)
-- TA Grondslagen Macro-economie (Undergraduate, 2016 - 2020)
-- TA Macroeconomics for EOR (Undergraduate, 2017 - 2018)
-- TA Economics for Social Sciences (Undergraduate, 2018 - 2019)
-- TA Microeconomics 2, Game Theory (Research Master, 2019 - 2020) 
-- TA Environmental Economics (Undergraduate, 2020)
+**Lecturer**
 
+- Mathematics for Economists (PhD, 2022, guest lecturer in the Central-German Doctoral Program Economics)
+- Management of Biological Resources (MSc, 2021)
+
+**TA**
+
+- Grondslagen Macro-economie (Undergraduate, 2016 - 2020)
+- Macroeconomics for EOR (Undergraduate, 2017 - 2018)
+- Economics for Social Sciences (Undergraduate, 2018 - 2019)
+- Microeconomics 2, Game Theory (Research Master, 2019 - 2020) 
+- Environmental Economics (Undergraduate, 2020)
+
+**Supervision**
+
+- BSc theses 
+- MSc theses
