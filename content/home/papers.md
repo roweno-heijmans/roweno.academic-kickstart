@@ -26,9 +26,10 @@ weight = 11
 
 **Working papers**
 
-- Heijmans, R.J.R.K. (2022). [The Global Climate Game](https://www.roweno.nl/files/TheGlobalClimateGame.pdf). Job Market Paper 1.
-- Heijmans, R.J.R.K. (2022). [Time Horizons and Emissions Trading](https://www.roweno.nl/files/timehorizonsemissionstrading.pdf). Job Market Paper 2.
-- Gerlagh, R., & Heijmans, R.J.R.K. (2020). [Regulating Stock Externalities](https://www.roweno.nl/files/RegulatingStockExternalities.pdf). Submitted.
+- Heijmans, R.J.R.K. (2022). [The Global Climate Game](https://www.roweno.nl/files/TheGlobalClimateGame.pdf). 
+- Heijmans, R.J.R.K. (2022). [Time Horizons and Emissions Trading](https://www.roweno.nl/files/timehorizonsemissionstrading.pdf). 
+- Heijmans, R.J.R.K., & Suetens, S. (2022). Network Subsidies: Theory and Experiments.
+- Gerlagh, R., & Heijmans, R.J.R.K. (2020). [Regulating Stock Externalities](https://www.roweno.nl/files/RegulatingStockExternalities.pdf).
 - Heijmans, R.J.R.K., & Moura, A. (2020). [Efficient Epidemics: Contagion, Control, and Cooperation in a Global Game](https://www.roweno.nl/files/EfficientEpidemics.pdf).
 - Heijmans, R.J.R.K., & Gerlagh, R. (2020). [Linking Cap-and-trade Schemes Under Asymmetric Uncertainty](https://www.roweno.nl/files/LinkingCapAndTrade.pdf).
 - Heijmans, R.J.R.K. (2020). [Sequential Global Games](https://www.roweno.nl/files/SequentialGlobalGames.pdf).
