@@ -20,6 +20,11 @@ weight = 60
 - Mathematics for Economists (PhD, 2022, guest lecturer in the Central-German Doctoral Program Economics)
 - Management of Biological Resources (MSc, 2021)
 
+**Supervision**
+
+- BSc theses 
+- MSc theses
+
 **TA**
 
 - Grondslagen Macro-economie (Undergraduate, 2016 - 2020)
@@ -28,7 +33,4 @@ weight = 60
 - Microeconomics 2, Game Theory (Research Master, 2019 - 2020) 
 - Environmental Economics (Undergraduate, 2020)
 
-**Supervision**
 
-- BSc theses 
-- MSc theses
