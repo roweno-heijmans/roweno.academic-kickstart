@@ -37,7 +37,7 @@ weight = 5
 
 # Biography
 
-Welcome to my website! I am an applied economic theorist working on environmental economics, public economics, and game theory. My home base is the Department of Economics, Swedish University of Agricultural Sciences, Sweden. I also teach Mathematics for Economists in the [Central-German Doctoral Program Economics]([https://www.iwh-halle.de/en/career/doctoral-programme/faculty/](http://cgde.wifa.uni-leipzig.de/3257-2/)) and co-organize the seminar series at my department.
+Welcome to my website! I am an applied economic theorist working on environmental economics, public economics, and game theory. My home base is the Department of Economics, Swedish University of Agricultural Sciences, Sweden. I also teach Mathematics for Economists in the [Central-German Doctoral Program Economics](http://cgde.wifa.uni-leipzig.de/3257-2/) and co-organize the seminar series at my department.
 
 I am the grateful recipient, and principal investigator, of a **Jan Wallanders och Tom Hedelius stiftelse** program grant (P22-0229).
 
