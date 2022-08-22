@@ -28,6 +28,7 @@ weight = 11
 
 - Heijmans, R.J.R.K. (2022). [The Global Climate Game](https://www.roweno.nl/files/TheGlobalClimateGame.pdf). 
 - Heijmans, R.J.R.K. (2022). [Time Horizons and Emissions Trading](https://www.roweno.nl/files/timehorizonsemissionstrading.pdf). 
+- Heijmans, R.J.R.K. (2022). [Adjustable Allowance Supply and the Interest Rate](https://www.roweno.nl/files/interestrate.pdf). 
 - Heijmans, R.J.R.K., & Suetens, S. (2022). Network Subsidies: Theory and Experiments.
 - Gerlagh, R., & Heijmans, R.J.R.K. (2020). [Regulating Stock Externalities](https://www.roweno.nl/files/RegulatingStockExternalities.pdf).
 - Heijmans, R.J.R.K., & Moura, A. (2020). [Efficient Epidemics: Contagion, Control, and Cooperation in a Global Game](https://www.roweno.nl/files/EfficientEpidemics.pdf).
