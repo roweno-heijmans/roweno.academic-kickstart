@@ -36,6 +36,8 @@ highlight = true
 
 url_pdf = "https://iopscience.iop.org/article/10.1088/1748-9326/ac63d6"
 
+url_custom = [{name = "Video", url = "hhttps://www.youtube.com/watch?v=CTu4hZQFMx4&t=61s&ab_channel=ReyerGerlagh"}]
+
 +++
 
 
