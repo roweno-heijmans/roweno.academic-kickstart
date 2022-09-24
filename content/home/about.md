@@ -19,7 +19,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
   
   [[education.courses]]
-  course = "PhD in Economics"
+  course = "PhD Economics"
   institution = "Tilburg University"
   year = 2021
   
