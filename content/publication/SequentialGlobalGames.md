@@ -4,10 +4,10 @@ abstract = "Global games are incomplete information games where players receive 
 abstract_short = ""
 
 title = "Sequential Global Games"
-date = "2020-01-01"
+date = "2022-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["R.J.R.K. Heijmans"]
+authors = ["R.J.R.K. Heijmans", "E. van Damme"]
 # Publication type.
 # Legend:
 # 0 = Uncategorized
