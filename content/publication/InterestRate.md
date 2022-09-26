@@ -18,7 +18,7 @@ authors = ["R.J.R.K. Heijmans"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["9"]
+publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
 publication = "Revisions requested at _Journal of Environmental Economics and Management_"
