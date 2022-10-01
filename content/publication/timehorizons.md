@@ -1,6 +1,6 @@
 +++
 # Abstract and optional shortened version.
-abstract = "I study cap and trade schemes where feedback mechanisms from the market for allowances determine, at least in part, the cap on emissions and where the scheme ends with a hard ban on emissions. The effect of bringing forward te ban depends on the supply mechanism in place: under a price mechanism (supply increasing in the allowance price) the reduction in equilibrium emissions from an earlier ban is positive and bounded from below, whereas it is bounded from above and possibly negative under a quantity mechanism (supply decreasing in the surplus of unused allowances). I characterize these bounds and provide conditions under which they coincide. I also identify sufficient conditions for which an earlier ban leads to strictly higher emissions under a quantity mechanism."
+abstract = "We study dynamic cap and trade schemes in which a policy of adjustable allowance supply determines the cap on emissions. Focusing on two common supply policies, price and quantity mechanisms, we investigate how the duration of a cap and trade scheme affects equilibrium emissions under its cap. More precisely, we quantify the reduction in equilibrium emissions realized by shortening the duration of the scheme. We present four main results. First, the reduction in emissions is positive and bounded from below under a price mechanism. Second, the reduction in emissions is bounded from above under a quantity mechanism. Third, these upper and lower bounds coincide when the price and quantity mechanism are similar. Fourth, we identify sufficient conditions for which the reduction in emissions is strictly negative under a quantity mechanism. Our results show that price and quantity mechanisms are nowhere near equivalent."
 abstract_short = ""
 
 title = "Time Horizons and Emissions Trading"
@@ -18,10 +18,10 @@ authors = ["R.J.R.K. Heijmans"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["9"]
+publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "Submitted"
 publication_short = ""
 
 # Is this a selected publication? (true/false)
