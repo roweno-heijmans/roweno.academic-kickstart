@@ -26,7 +26,7 @@ weight = 11
 
 **Working papers**
 
-- Heijmans, R.J.R.K. (2022). [Adjustable Allowance Supply and the Interest Rate](https://www.roweno.nl/files/interestrate.pdf). Revisions requested at _Journal of Environmental Economics and Management_.
+- Heijmans, R.J.R.K. (2022). [Adjustable Emissions Caps and the Price of Pollution](https://www.roweno.nl/files/interestrate.pdf). Revisions requested at _Journal of Environmental Economics and Management_.
 - Heijmans, R.J.R.K. (2022). [The Global Climate Game](https://www.roweno.nl/files/TheGlobalClimateGame.pdf). 
 - Heijmans, R.J.R.K. (2022). [Time Horizons and Emissions Trading](https://www.roweno.nl/files/timehorizonsemissionstrading.pdf). Submitted.
 - Heijmans, R.J.R.K., & Suetens, S. (2022). [Network Subsidies: Theory and Experiments (theory part)](https://www.roweno.nl/files/NetworkSubsidies.pdf).
