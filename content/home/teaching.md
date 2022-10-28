@@ -17,8 +17,8 @@ weight = 60
 
 **Lecturer**
 
-- [Mathematics for Economists](http://cgde.wifa.uni-leipzig.de/3257-2/) (PhD, 2022)
-- [Environmental and Resource Economics](https://www.slu.se/en/education/programmes-courses/course/NA0168/20110.2021/Management-of-Biological-Resources/) (MSc, 2021 - 2022)
+- [Mathematics for Economists](http://cgde.wifa.uni-leipzig.de/3257-2/) (PhD)
+- [Environmental and Resource Economics](https://www.slu.se/en/education/programmes-courses/course/NA0168/20110.2021/Management-of-Biological-Resources/) (MSc)
 
 **Supervision**
 
