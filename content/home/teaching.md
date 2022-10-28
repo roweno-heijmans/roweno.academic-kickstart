@@ -27,9 +27,9 @@ weight = 60
 
 **Previous teaching (as TA)**
 
-- Macroeconomics (Undergraduate)
-- Economics for Social Sciences (Undergraduate)
-- Game Theory (Research Master) 
-- Environmental Economics (Undergraduate)
+- Macroeconomics (BSc)
+- Economics for Social Sciences (BSc)
+- Game Theory (MRes) 
+- Environmental Economics (BSc)
 
 
