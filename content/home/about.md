@@ -13,7 +13,7 @@ weight = 5
     "Environmental economics",
     "Public economics",
     "Game theory",
-    "Carbon pricing",
+    "Experimental economics",
   ]
 
 # List your qualifications (such as academic degrees).

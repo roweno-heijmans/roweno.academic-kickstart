@@ -32,7 +32,7 @@ weight = 11
 - Heijmans, R.J.R.K., & Suetens, S. (2022). [Network Subsidies: Theory and Experiments (theory part)](https://www.roweno.nl/files/NetworkSubsidies.pdf).
 - Gerlagh, R., & Heijmans, R.J.R.K. (2020). [Regulating Stock Externalities](https://www.roweno.nl/files/RegulatingStockExternalities.pdf).
 - Heijmans, R.J.R.K., & Moura, A. (2022). [Pandemic Policy in a Global Game](https://www.roweno.nl/files/EfficientEpidemics.pdf).
-- Gerlagh, R., Heijmans, R.J.R.K., & Rosendahl, K. E. (2022). [Flexible emissions caps and the green paradox](https://www.roweno.nl/files/Flexible.pdf).
+- Gerlagh, R., Heijmans, R.J.R.K., & Rosendahl, K. E. (2022). [Flexible emissions caps and counterproductive policies](https://www.roweno.nl/files/Flexible.pdf).
 - Heijmans, R.J.R.K., & Gerlagh, R. (2020). [Linking Cap-and-trade Schemes Under Asymmetric Uncertainty](https://www.roweno.nl/files/LinkingCapAndTrade.pdf).
 - Heijmans, R.J.R.K., & Van Damme, E. (2022). [Sequential Global Games](https://www.roweno.nl/files/SequentialGlobalGames.pdf).
 
