@@ -11,27 +11,25 @@ title = "Other"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 60
 
 +++
 
-**Publications in peer-reviewed journals**
+**In English**
 
-- Gerlagh, R., Heijmans, R.J.R.K., & Rosendahl, K. E. (2022). [Shifting concerns for the EU ETS: Are carbon prices becoming too high?](https://iopscience.iop.org/article/10.1088/1748-9326/ac63d6). _Environmental Research Letters_. [Video abstract](https://www.youtube.com/watch?v=CTu4hZQFMx4&t=61s&ab_channel=ReyerGerlagh)
-- Gerlagh, R., Heijmans, R.J.R.K., & Rosendahl, K. E. (2021). [An Endogenous Emission Cap Produces a Green Paradox](https://academic.oup.com/economicpolicy/article/36/107/485/6178790). _Economic Policy_, 36(107), 485-522.
-- Gerlagh, R., Heijmans, R.J.R.K., & Rosendahl, K.E. (2020). [COVID-19 Tests the Market Stability Reserve](https://link.springer.com/article/10.1007/s10640-020-00441-0). _Environmental and Resource Economics_, 76(4), 855-865.
-- Gerlagh, R., & Heijmans, R.J.R.K. (2019). [Climate-Conscious Consumers and the Buy, Bank, Burn Program](https://www.nature.com/articles/s41558-019-0482-0). _Nature Climate Change_, 9(6), 431-433.
+- Gerlagh, R., Heijmans, R.J.R.K., & Mayumi, K. T. (2019). Can the social cost of carbon be calculated? [Contemporary Climate Change Debates: A Student Primer](https://www.routledge.com/Contemporary-Climate-Change-Debates-A-Student-Primer/Hulme/p/book/9781138333024). _Routledge_.
+- Heijmans, R.J.R.K., & Gerlagh, R. (2020). [Why the New EU ETS is Almost Perfect](https://www.roweno.nl/files/EAERE%20Magazine%20Fall%202018.pdf). _EAERE Magazine_.
+
+**In Dutch**
+
+- Van Damme, E.E.C., Gerlagh, R., Heijmans, R.J.R.K., & Willems, B.J. (2018). [Veilen of vergelijken voor het winnen van windenergie op zee?](https://www.roweno.nl/files/WindenergieOpZee.pdf)
+- Heijmans, R.J.R.K., & Gerlagh, R. (2019). [Hervorming van Europees emissiehandelssysteem is effectief en biedt kansen](https://esb.nu/esb/20055600/hervorming-van-europees-emissiehandelssysteem-is-effectief-en-biedt-kansen). _Economisch Statistische Berichten_.
+- Heijmans, R.J.R.K. (2021). [Toekomstbestendig klimaatbeleid vergt prijsband voor CO₂-emissierechten](https://esb.nu/esb/20069106/toekomstbestendig-klimaatbeleid-vergt-prijsband-voor-co-emissierechten). _Economisch Statistische Berichten_.
+- Heijmans, R.J.R.K. (2021). [Promotiebespreking](https://esb.nu/esb/20066009/promotiebespreking-roweno-heijmans). _Economisch Statistische Berichten_.
 
 
 
-**Working papers**
 
-- Heijmans, R.J.R.K. (2022). [Adjustable Emissions Caps and the Price of Pollution](https://www.roweno.nl/files/interestrate.pdf). Revisions requested at _Journal of Environmental Economics and Management_.
-- Heijmans, R.J.R.K. (2022). [The Global Climate Game](https://www.roweno.nl/files/TheGlobalClimateGame.pdf). 
-- Heijmans, R.J.R.K. (2022). [Time Horizons and Emissions Trading](https://www.roweno.nl/files/timehorizonsemissionstrading.pdf). Submitted.
-- Heijmans, R.J.R.K., & Suetens, S. (2022). [Network Subsidies: Theory and Experiments (theory part)](https://www.roweno.nl/files/NetworkSubsidies.pdf).
-- Gerlagh, R., & Heijmans, R.J.R.K. (2020). [Regulating Stock Externalities](https://www.roweno.nl/files/RegulatingStockExternalities.pdf).
-- Heijmans, R.J.R.K., & Moura, A. (2022). [Pandemic Policy in a Global Game](https://www.roweno.nl/files/EfficientEpidemics.pdf).
-- Gerlagh, R., Heijmans, R.J.R.K., & Rosendahl, K. E. (2022). [Flexible emissions caps and counterproductive policies](https://www.roweno.nl/files/Flexible.pdf).
-- Heijmans, R.J.R.K., & Gerlagh, R. (2020). [Linking Cap-and-trade Schemes Under Asymmetric Uncertainty](https://www.roweno.nl/files/LinkingCapAndTrade.pdf).
-- Heijmans, R.J.R.K., & Van Damme, E. (2022). [Sequential Global Games](https://www.roweno.nl/files/SequentialGlobalGames.pdf).
+
+
+
