@@ -28,7 +28,7 @@ weight = 11
 
 - Heijmans, R.J.R.K. (2022). [Adjustable Emissions Caps and the Price of Pollution](https://www.roweno.nl/files/interestrate.pdf). Resubmitted at _Journal of Environmental Economics and Management_.
 - Heijmans, R.J.R.K. (2022). [The Global Climate Game](https://www.roweno.nl/files/TheGlobalClimateGame.pdf). 
-- Heijmans, R.J.R.K. (2022). [Time Horizons and Emissions Trading](https://www.roweno.nl/files/timehorizonsemissionstrading.pdf). Submitted.
+- Heijmans, R.J.R.K. (2022). [Time Horizons and Emissions Trading](https://www.roweno.nl/files/timehorizonsemissionstrading.pdf). Under review.
 - Heijmans, R.J.R.K., & Suetens, S. (2022). [Network Subsidies: Theory and Experiments (theory part)](https://www.roweno.nl/files/NetworkSubsidies.pdf).
 - Heijmans, R.J.R.K., & Moura, A. (2022). [Pandemic Policy in a Global Game](https://www.roweno.nl/files/EfficientEpidemics.pdf).
 - Gerlagh, R., Heijmans, R.J.R.K., & Rosendahl, K. E. (2022). [Flexible emissions caps and counterproductive policies](https://www.roweno.nl/files/Flexible.pdf).
