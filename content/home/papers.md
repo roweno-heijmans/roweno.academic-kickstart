@@ -24,15 +24,18 @@ weight = 11
 
 
 
-**Working papers**
+**Working papers (up-to-date manuscript available)**
 
-- Heijmans, R.J.R.K. (2022). [Adjustable Emissions Caps and the Price of Pollution](https://www.roweno.nl/files/interestrate.pdf). Revisions requested at _Journal of Environmental Economics and Management_.
+- Heijmans, R.J.R.K. (2022). [Adjustable Emissions Caps and the Price of Pollution](https://www.roweno.nl/files/interestrate.pdf). Resubmitted at _Journal of Environmental Economics and Management_.
 - Heijmans, R.J.R.K. (2022). [The Global Climate Game](https://www.roweno.nl/files/TheGlobalClimateGame.pdf). 
-- Heijmans, R.J.R.K. (2022). [Time Horizons and Emissions Trading](https://www.roweno.nl/files/timehorizonsemissionstrading.pdf). Submitted.
-- Heijmans, R.J.R.K., & Suetens, S. (2022). [Network Subsidies: Theory and Experiments (theory part)](https://www.roweno.nl/files/NetworkSubsidies.pdf).
-- Gerlagh, R., & Heijmans, R.J.R.K. (2020). [Regulating Stock Externalities](https://www.roweno.nl/files/RegulatingStockExternalities.pdf).
+- Heijmans, R.J.R.K. (2022). [Time Horizons and Emissions Trading](https://www.roweno.nl/files/timehorizonsemissionstrading.pdf). Under review.
+- Heijmans, R.J.R.K., & Suetens, S. (2022). Network Subsidies: Theory and Experiments.
 - Heijmans, R.J.R.K., & Moura, A. (2022). [Pandemic Policy in a Global Game](https://www.roweno.nl/files/EfficientEpidemics.pdf).
 - Gerlagh, R., Heijmans, R.J.R.K., & Rosendahl, K. E. (2022). [Flexible emissions caps and counterproductive policies](https://www.roweno.nl/files/Flexible.pdf).
-- Heijmans, R.J.R.K., & Gerlagh, R. (2020). [Linking Cap-and-trade Schemes Under Asymmetric Uncertainty](https://www.roweno.nl/files/LinkingCapAndTrade.pdf).
-- Heijmans, R.J.R.K., & Van Damme, E. (2022). [Sequential Global Games](https://www.roweno.nl/files/SequentialGlobalGames.pdf).
+
+**Work in progress**
+
+- Capitán, T., Heijmans, R.J.R.K., & Naso. P. Stabilising prices in a cap and trade market with adaptive supply policies: Evidence from the lab.
+- Heijmans, R.J.R.K., & Van Damme, E. [Sequential Global Games](https://www.roweno.nl/files/SequentialGlobalGames.pdf).
+- Heijmans, R.J.R.K., & Spiro, D. Multiple Expectations-Based Equilibria in the EU ETS.
 

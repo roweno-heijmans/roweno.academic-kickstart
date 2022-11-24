@@ -11,26 +11,25 @@ title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 50
 
 +++
 
 **Lecturer**
 
-- Mathematics for Economists (PhD, 2022, guest lecturer in the Central-German Doctoral Program Economics)
-- Management of Biological Resources (MSc, 2021)
+- [Mathematics for Economists](http://cgde.wifa.uni-leipzig.de/3257-2/) (PhD)
+- [Environmental and Resource Economics](https://www.slu.se/en/education/programmes-courses/course/NA0168/20110.2021/Management-of-Biological-Resources/) (MSc)
 
 **Supervision**
 
 - BSc theses 
 - MSc theses
 
-**TA**
+**Previous teaching (as TA)**
 
-- Grondslagen Macro-economie (Undergraduate, 2016 - 2020)
-- Macroeconomics for EOR (Undergraduate, 2017 - 2018)
-- Economics for Social Sciences (Undergraduate, 2018 - 2019)
-- Microeconomics 2, Game Theory (Research Master, 2019 - 2020) 
-- Environmental Economics (Undergraduate, 2020)
+- Macroeconomics (BSc)
+- Economics for Social Sciences (BSc)
+- Game Theory (MRes) 
+- Environmental Economics (BSc)
 
 
