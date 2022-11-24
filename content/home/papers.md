@@ -38,4 +38,4 @@ weight = 11
 - Capitán, T., Heijmans, R.J.R.K., & Naso. P. Stabilising prices in a cap and trade market with adaptive supply policies: Evidence from the lab.
 - Heijmans, R.J.R.K., & Van Damme, E. [Sequential Global Games](https://www.roweno.nl/files/SequentialGlobalGames.pdf).
 - Heijmans, R.J.R.K., & Spiro, D. Multiple Expectations-Based Equilibria in the EU ETS.
-- Heijmans, R.J.R.K., & Gerlagh, R. [Linking Cap-and-trade Schemes Under Asymmetric Uncertainty](https://www.roweno.nl/files/LinkingCapAndTrade.pdf).
+
