@@ -297,10 +297,10 @@ enableGitInfo = false
 #  url = "#pubs"
 #  weight = 4
   
-  [[menu.main]]
-  name = "Working papers"
-  url = "#wp"
-  weight = 5
+#  [[menu.main]]
+#  name = "Working papers"
+#  url = "#wp"
+#  weight = 5
   
  [[menu.main]]
     name = "CV"
