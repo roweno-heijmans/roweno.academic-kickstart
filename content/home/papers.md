@@ -35,7 +35,7 @@ weight = 11
 
 **Work in progress**
 
-- Heijmans, R.J.R.K., & Suetens, S. (2022). Comparing Policies to Solve Coordination Problems: Evidence From the Lab.
+- Heijmans, R.J.R.K., & Suetens, S. Comparing Policies to Solve Coordination Problems: Evidence From the Lab.
 - Capitán, T., Heijmans, R.J.R.K., & Naso. P. Stabilising prices in a cap and trade market with adaptive supply policies: Evidence from the lab.
 - Heijmans, R.J.R.K., & Van Damme, E. [Sequential Global Games](https://www.roweno.nl/files/SequentialGlobalGames.pdf).
 - Heijmans, R.J.R.K., & Spiro, D. Multiple Expectations-Based Equilibria in the EU ETS.
