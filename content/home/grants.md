@@ -17,8 +17,8 @@ weight = 45
 
 **As principal investigator**
 
--  _Trading Emissions to Combat Climate Change: Problem or Promise?_, Jan
-Wallanders och Tom Hedelius Stiftelse program grant, grant number P22-0229. SEK 1,370,000 (stipend; exempt from taxes). 2023-2026.
+-  _Trading Emissions to Combat Climate Change: Problem or Promise?_ Jan
+Wallanders och Tom Hedelius Stiftelse program grant, number P22-0229. SEK 1,370,000 (stipend; exempt from taxes). 2023-2026.
 
 
 
