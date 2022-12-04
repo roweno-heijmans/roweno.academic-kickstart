@@ -39,6 +39,8 @@ weight = 5
 
 I am an applied economic theorist working on environmental economics, public economics, game theory, and lab experiments. My home base is the Department of Economics, Swedish University of Agricultural Sciences, Sweden. I am also a guest lecturer in the [Central-German Doctoral Program Economics](http://cgde.wifa.uni-leipzig.de/3257-2/) and co-organize the seminar series at my department.
 
+**I am on the 2022-2023 job market, and I will be available for interviews at the EEA 2022 and the ASSA 2023 meetings.**
+
 I am principal investigator and project lead for a **Jan Wallanders och Tom Hedelius stiftelse** program grant. The project is titled [Trading Emissions to Combat Climate Change: Problem or Promise?](https://www.handelsbanken.se/shb/inet/IStartSv.nsf/FrameSet?OpenView&id=Forskningsstiftelserna) (P22-0229).
 
 
