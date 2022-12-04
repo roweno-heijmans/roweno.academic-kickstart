@@ -283,7 +283,7 @@ enableGitInfo = false
   align_right = true
 
 [[menu.main]]
-  name = "Bio"
+  name = "About"
   url = "#about"
   weight = 1
  
