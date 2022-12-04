@@ -35,9 +35,7 @@ weight = 5
  
 +++
 
-# Biography
-
-Welcome to my website!
+# Welcome to my website!
 
 I am an applied economic theorist working on environmental economics, public economics, game theory, and lab experiments. My home base is the Department of Economics, Swedish University of Agricultural Sciences, Sweden. I am also a guest lecturer in the [Central-German Doctoral Program Economics](http://cgde.wifa.uni-leipzig.de/3257-2/) and co-organize the seminar series at my department.
 
