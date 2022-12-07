@@ -283,7 +283,7 @@ enableGitInfo = false
   align_right = true
 
 [[menu.main]]
-  name = "Bio"
+  name = "About"
   url = "#about"
   weight = 1
  
@@ -305,6 +305,11 @@ enableGitInfo = false
  [[menu.main]]
     name = "CV"
     url = "#cv"
+     weight = 5
+     
+ [[menu.main]]
+    name = "Grants"
+    url = "#grants"
      weight = 6
 
 [[menu.main]]
