@@ -12,6 +12,6 @@ weight = 35
 
 
 +++
-For a copy of my CV, click [here](http://www.roweno.nl/files/CV.pdf). For my resume, click [here](http://www.roweno.nl/files/Resume.pdf)
+For a copy of my CV, click [here](http://www.roweno.nl/files/CV.pdf).
 
 
