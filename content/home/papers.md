@@ -30,7 +30,7 @@ weight = 11
 - Heijmans, R.J.R.K. [The Global Climate Game](https://www.roweno.nl/files/TheGlobalClimateGame.pdf). Job Market Paper.
 - Heijmans, R.J.R.K. [Time Horizons and Emissions Trading](https://www.roweno.nl/files/timehorizonsemissionstrading.pdf). Under review.
 - Heijmans, R.J.R.K. Network Subsidies.
-- Heijmans, R.J.R.K., & Moura, A. Pandemic Policy in a Global Game](https://www.roweno.nl/files/EfficientEpidemics.pdf).
+- Heijmans, R.J.R.K., & Moura, A. [Pandemic Policy in a Global Game](https://www.roweno.nl/files/EfficientEpidemics.pdf).
 - Gerlagh, R., Heijmans, R.J.R.K., & Rosendahl, K. E. [Flexible emissions caps and counterproductive policies](https://www.roweno.nl/files/Flexible.pdf).
 
 **Work in progress**
