@@ -250,20 +250,20 @@ enableGitInfo = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
-  icon = "envelope"
-   icon_pack = "fas"
-   link = "mailto:r.j.r.k.heijmans@uvt.nl"
+#  [[params.social]]
+#  icon = "envelope"
+#   icon_pack = "fas"
+#   link = "mailto:r.j.r.k.heijmans@uvt.nl"
 
- [[params.social]]
-   icon = "google-scholar"
-   icon_pack = "ai"
-   link = "https://scholar.google.nl/citations?user=iXZhTR4AAAAJ&hl=en&oi=ao"
+# [[params.social]]
+#   icon = "google-scholar"
+#   icon_pack = "ai"
+#   link = "https://scholar.google.nl/citations?user=iXZhTR4AAAAJ&hl=en&oi=ao"
    
-    [[params.social]]
-   icon = "linkedin"
-   icon_pack = "fab"
-   link = "https://www.linkedin.com/in/roweno-heijmans-948a111ba/"
+#    [[params.social]]
+#   icon = "linkedin"
+#   icon_pack = "fab"
+#   link = "https://www.linkedin.com/in/roweno-heijmans-948a111ba/"
 
 
 
