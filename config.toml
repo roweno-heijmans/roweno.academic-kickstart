@@ -16,7 +16,7 @@ title = "Roweno J. R. K. Heijmans"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2021 R.J.R.K. Heijmans"
+copyright = "&copy; 2022 R.J.R.K. Heijmans"
 
 theme = "academic"
 enableEmoji = true
@@ -65,7 +65,7 @@ enableGitInfo = false
   avatar = "Roweno-klein.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "roweno.heijmans(at)slu(dot)se"
+  email = "roweno.heijmans(at)gmail(dot)com"
   address = "Room D362, Department of Economics, Ulls väg 27, 756 51 Uppsala, Sweden"
   office_hours = "By appointment"
   phone = ""
