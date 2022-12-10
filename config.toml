@@ -16,7 +16,7 @@ title = "Roweno J. R. K. Heijmans"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2021 R.J.R.K. Heijmans"
+copyright = "&copy; 2022 R.J.R.K. Heijmans"
 
 theme = "academic"
 enableEmoji = true
@@ -65,7 +65,7 @@ enableGitInfo = false
   avatar = "Roweno-klein.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "roweno.heijmans(at)slu(dot)se"
+  email = "roweno.heijmans(at)gmail(dot)com"
   address = "Room D362, Department of Economics, Ulls väg 27, 756 51 Uppsala, Sweden"
   office_hours = "By appointment"
   phone = ""
@@ -250,29 +250,29 @@ enableGitInfo = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
-  icon = "envelope"
-   icon_pack = "fas"
-   link = "mailto:r.j.r.k.heijmans@uvt.nl"
+#  [[params.social]]
+#  icon = "envelope"
+#   icon_pack = "fas"
+#   link = "mailto:r.j.r.k.heijmans@uvt.nl"
 
- [[params.social]]
-   icon = "google-scholar"
-   icon_pack = "ai"
-   link = "https://scholar.google.nl/citations?user=iXZhTR4AAAAJ&hl=en&oi=ao"
+# [[params.social]]
+#   icon = "google-scholar"
+#   icon_pack = "ai"
+#   link = "https://scholar.google.nl/citations?user=iXZhTR4AAAAJ&hl=en&oi=ao"
    
-    [[params.social]]
-   icon = "linkedin"
-   icon_pack = "fab"
-   link = "https://www.linkedin.com/in/roweno-heijmans-948a111ba/"
+#    [[params.social]]
+#   icon = "linkedin"
+#   icon_pack = "fab"
+#   link = "https://www.linkedin.com/in/roweno-heijmans-948a111ba/"
 
 
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  # [[params.social]]
-  #   icon = "cv"
-  #   icon_pack = "ai"
-  #   link = "files/cv.pdf"
+   [[params.social]]
+     icon = "cv"
+     icon_pack = "ai"
+     link = "files/cv.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -304,8 +304,8 @@ enableGitInfo = false
   
  [[menu.main]]
     name = "CV"
-    url = "#cv"
-     weight = 5
+    url = "files/cv.pdf"
+     weight = 10
      
  [[menu.main]]
     name = "Grants"
