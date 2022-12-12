@@ -37,7 +37,7 @@ weight = 5
 
 # Welcome to my website!
 
-I am an applied economic theorist working on environmental economics, game theory, and lab experiments. My home base is the Department of Economics at the Swedish University of Agricultural Sciences, Uppssala, Sweden. I am also a guest lecturer in the [Central-German Doctoral Program Economics](http://cgde.wifa.uni-leipzig.de/3257-2/) and co-organize the seminar series at my department.
+I am an applied economic theorist working on environmental economics, game theory, and lab experiments. My home base is the Department of Economics at the Swedish University of Agricultural Sciences, Uppsala, Sweden. I am also a guest lecturer in the [Central-German Doctoral Program Economics](http://cgde.wifa.uni-leipzig.de/3257-2/) and co-organize the seminar series at my department.
 
 **I am on the 2022-2023 job market and will be available for interviews at the EEA 2022 and the ASSA 2023 meetings.**
 
