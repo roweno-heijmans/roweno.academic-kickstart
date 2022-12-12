@@ -37,6 +37,6 @@ weight = 11
 
 - Heijmans, R.J.R.K., & Suetens, S. Comparing Policies to Solve Coordination Problems.
 - Capitán, T., Goeschl, T., Heijmans, R.J.R.K., & Naso. P.  Stabilising Cap and Trade Markets: Evidence from the Lab.
-- Heijmans, R.J.R.K., & Van Damme, E. [Sequential Global Games](https://www.roweno.nl/files/SequentialGlobalGames.pdf).
+- Heijmans, R.J.R.K., & Van Damme, E. Sequential Global Games.
 - Heijmans, R.J.R.K., & Spiro, D. Multiple Expectations-Based Equilibria in the EU ETS.
 
