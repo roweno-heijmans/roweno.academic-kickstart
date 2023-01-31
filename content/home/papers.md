@@ -27,7 +27,7 @@ weight = 11
 **Work in progress**
 
 - Heijmans, R.J.R.K., & Suetens, S. Comparing Policies to Solve Coordination Problems.
-- Capitán, T., Goeschl, T., Heijmans, R.J.R.K., & Naso. P.  Stabilising Cap and Trade Markets: Evidence from the Lab.
+- Capitán, T., Goeschl, T., Heijmans, R.J.R.K., & Naso. P.  Stabilising Cap and Trade Markets in the Lab.
 - Ferguson, S., & Heijmans, R.J.R.K. Do domestic climate policies stimulate the export of polluting technologies? Evidence from trade data
 - Heijmans, R.J.R.K., & Van Damme, E. Sequential Global Games.
 - Heijmans, R.J.R.K., & Spiro, D. Multiple Expectations-Based Equilibria in the EU ETS.
