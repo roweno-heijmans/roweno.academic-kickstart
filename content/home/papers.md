@@ -15,15 +15,6 @@ weight = 11
 
 +++
 
-**Publications in peer-reviewed journals**
-
-- Gerlagh, R., Heijmans, R.J.R.K., & Rosendahl, K. E. (2022). [Shifting concerns for the EU ETS: Are carbon prices becoming too high?](https://iopscience.iop.org/article/10.1088/1748-9326/ac63d6). _Environmental Research Letters_.
-- Gerlagh, R., Heijmans, R.J.R.K., & Rosendahl, K. E. (2021). [An Endogenous Emission Cap Produces a Green Paradox](https://academic.oup.com/economicpolicy/article/36/107/485/6178790). _Economic Policy_, 36(107), 485-522.
-- Gerlagh, R., Heijmans, R.J.R.K., & Rosendahl, K.E. (2020). [COVID-19 Tests the Market Stability Reserve](https://link.springer.com/article/10.1007/s10640-020-00441-0). _Environmental and Resource Economics_, 76(4), 855-865.
-- Gerlagh, R., & Heijmans, R.J.R.K. (2019). [Climate-Conscious Consumers and the Buy, Bank, Burn Program](https://www.nature.com/articles/s41558-019-0482-0). _Nature Climate Change_, 9(6), 431-433.
-
-
-
 **Working papers (up-to-date manuscript available)**
 
 - Heijmans, R.J.R.K. [Adjustable Emissions Caps and the Price of Pollution](https://www.roweno.nl/files/interestrate.pdf). Revision resubmitted to _Journal of Environmental Economics and Management_.
@@ -36,7 +27,15 @@ weight = 11
 **Work in progress**
 
 - Heijmans, R.J.R.K., & Suetens, S. Comparing Policies to Solve Coordination Problems.
-- Capitán, T., Goeschl, T., Heijmans, R.J.R.K., & Naso. P.  Stabilising Cap and Trade Markets: Evidence from the Lab.
+- Capitán, T., Goeschl, T., Heijmans, R.J.R.K., & Naso. P.  Stabilising Cap and Trade Markets in the Lab.
+- Ferguson, S., & Heijmans, R.J.R.K. Do domestic climate policies stimulate the export of polluting technologies? Evidence from trade data
 - Heijmans, R.J.R.K., & Van Damme, E. Sequential Global Games.
 - Heijmans, R.J.R.K., & Spiro, D. Multiple Expectations-Based Equilibria in the EU ETS.
+
+**Publications in peer-reviewed journals**
+
+- Gerlagh, R., Heijmans, R.J.R.K., & Rosendahl, K. E. (2022). [Shifting concerns for the EU ETS: Are carbon prices becoming too high?](https://iopscience.iop.org/article/10.1088/1748-9326/ac63d6) _Environmental Research Letters_.
+- Gerlagh, R., Heijmans, R.J.R.K., & Rosendahl, K. E. (2021). [An Endogenous Emission Cap Produces a Green Paradox](https://academic.oup.com/economicpolicy/article/36/107/485/6178790). _Economic Policy_.
+- Gerlagh, R., Heijmans, R.J.R.K., & Rosendahl, K.E. (2020). [COVID-19 Tests the Market Stability Reserve](https://link.springer.com/article/10.1007/s10640-020-00441-0). _Environmental and Resource Economics_.
+- Gerlagh, R., & Heijmans, R.J.R.K. (2019). [Climate-Conscious Consumers and the Buy, Bank, Burn Program](https://www.nature.com/articles/s41558-019-0482-0). _Nature Climate Change_.
 
