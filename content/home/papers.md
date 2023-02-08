@@ -17,6 +17,7 @@ weight = 11
 
 **Publications in peer-reviewed journals**
 
+- Heijmans, R.J.R.K. (2023) [Adjustable Emissions Caps and the Price of Pollution](https://www.roweno.nl/files/interestrate.pdf).  _Journal of Environmental Economics and Management_. Forthcoming.
 - Gerlagh, R., Heijmans, R.J.R.K., & Rosendahl, K. E. (2022). [Shifting Concerns For the EU ETS: Are Carbon Prices Becoming Too High?](https://iopscience.iop.org/article/10.1088/1748-9326/ac63d6) _Environmental Research Letters_.
 - Gerlagh, R., Heijmans, R.J.R.K., & Rosendahl, K. E. (2021). [An Endogenous Emission Cap Produces a Green Paradox](https://academic.oup.com/economicpolicy/article/36/107/485/6178790). _Economic Policy_.
 - Gerlagh, R., Heijmans, R.J.R.K., & Rosendahl, K.E. (2020). [COVID-19 Tests the Market Stability Reserve](https://link.springer.com/article/10.1007/s10640-020-00441-0). _Environmental and Resource Economics_.
@@ -24,7 +25,6 @@ weight = 11
 
 **Working papers (up-to-date manuscript available)**
 
-- Heijmans, R.J.R.K. [Adjustable Emissions Caps and the Price of Pollution](https://www.roweno.nl/files/interestrate.pdf). Minor revisions at _Journal of Environmental Economics and Management_.
 - Heijmans, R.J.R.K. [The Global Climate Game](https://www.roweno.nl/files/TheGlobalClimateGame.pdf). Job Market Paper.
 - Heijmans, R.J.R.K. [Time Horizons and Emissions Trading](https://www.roweno.nl/files/timehorizonsemissionstrading.pdf). Under review.
 - Heijmans, R.J.R.K. Network Subsidies.
