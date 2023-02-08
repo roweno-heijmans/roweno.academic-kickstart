@@ -1,7 +1,7 @@
 +++
 # My CV widget.
 widget = "custom"
-active = true
+active = false
 date = "2016-04-20T00:00:00"
 
 title = "CV"
@@ -12,6 +12,6 @@ weight = 35
 
 
 +++
-For a copy of my CV, click [here](http://www.roweno.nl/files/CV.pdf). For my resume, click [here](http://www.roweno.nl/files/Resume.pdf)
+For a copy of my CV, click [here](http://www.roweno.nl/files/CV.pdf).
 
 
