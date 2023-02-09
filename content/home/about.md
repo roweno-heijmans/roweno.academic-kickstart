@@ -41,4 +41,4 @@ I am an applied economic theorist working on environmental economics, game theor
 
 In my (non-existent) free time, I play the violin. Colleague [Sjak Smulders](https://research.tilburguniversity.edu/en/persons/sjak-smulders) and I from time to time force upon our fellow economists a [concert](https://twitter.com/TiUEconomics/status/1111204863382380544) in which we play music of our own choosing.
 
-**Exciting news**: new paper forthcoming in the _Journal of Environmental Economics and Management_. Read the latest (pre-copy-edited) version [here](https://www.roweno.nl/files/interestrate.pdf)!
+**Hot off the press**: new paper forthcoming in the _Journal of Environmental Economics and Management_. Read the latest (pre-copy-edited) version [here](https://www.roweno.nl/files/interestrate.pdf)!
