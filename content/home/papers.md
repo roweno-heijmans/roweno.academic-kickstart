@@ -38,3 +38,4 @@ weight = 11
 - Ferguson, S., & Heijmans, R.J.R.K. Do Domestic Climate Policies Stimulate the Export of Polluting Technologies? Evidence From Trade Data.
 - Heijmans, R.J.R.K., & Van Damme, E. Sequential Global Games.
 - Heijmans, R.J.R.K., & Spiro, D. Multiple Expectations-Based Equilibria in the EU ETS.
+- Heijmans, R.J.R.K., & Rausch, S. Non-Uniform Carbon Prices
