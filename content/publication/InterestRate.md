@@ -4,7 +4,7 @@ abstract = "Cap and trade schemes often use a policy of adjustable allowance sup
 abstract_short = ""
 
 title = "Adjustable Emissions Caps and the Price of Pollution"
-date = "2022-09-25"
+date = "2023"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["R.J.R.K. Heijmans"]
@@ -21,7 +21,7 @@ authors = ["R.J.R.K. Heijmans"]
 publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
-publication = "Revisions requested at _Journal of Environmental Economics and Management_"
+publication = "_Journal of Environmental Economics and Management_"
 publication_short = ""
 
 # Is this a selected publication? (true/false)
@@ -34,7 +34,7 @@ math = true
 # Does the content use source code highlighting?
 highlight = true
 
-url_pdf = "files/InterestRate.pdf"
+url_pdf = "https://doi.org/10.1016/j.jeem.2023.102793"
 
 
 
