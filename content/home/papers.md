@@ -25,17 +25,18 @@ weight = 11
 
 **Working papers (up-to-date manuscript available)**
 
-- Heijmans, R.J.R.K. [The Global Climate Game](https://www.roweno.nl/files/TheGlobalClimateGame.pdf). Job Market Paper.
 - Heijmans, R.J.R.K. [Time Horizons and Emissions Trading](https://www.roweno.nl/files/timehorizonsemissionstrading.pdf). Under review.
-- Heijmans, R.J.R.K. Network Subsidies.
+- Heijmans, R.J.R.K. [The Global Climate Game](https://www.roweno.nl/files/TheGlobalClimateGame.pdf).
+- Heijmans, R.J.R.K. Unraveling Coordination Problems.
 - Heijmans, R.J.R.K., & Moura, A. [Pandemic Policy in a Global Game](https://www.roweno.nl/files/EfficientEpidemics.pdf).
 - Gerlagh, R., Heijmans, R.J.R.K., & Rosendahl, K. E. [Flexible Emissions Caps and Counterproductive Policies](https://www.roweno.nl/files/Flexible.pdf).
 
 **Work in progress**
 
+- Heijmans, R.J.R.K., & Rausch, S. Carbon Prices and the Social Value of Emissions.
+- Ferguson, S., & Heijmans, R.J.R.K. Do Domestic Climate Policies Stimulate the Export of Polluting Technologies? Evidence From Trade Data.
 - Heijmans, R.J.R.K., & Suetens, S. Comparing Policies to Solve Coordination Problems.
 - Capitán, T., Goeschl, T., Heijmans, R.J.R.K., & Naso. P.  Stabilising Cap and Trade Markets in the Lab.
-- Ferguson, S., & Heijmans, R.J.R.K. Do Domestic Climate Policies Stimulate the Export of Polluting Technologies? Evidence From Trade Data.
 - Heijmans, R.J.R.K., & Van Damme, E. Sequential Global Games.
 - Heijmans, R.J.R.K., & Spiro, D. Multiple Expectations-Based Equilibria in the EU ETS.
-- Heijmans, R.J.R.K., & Rausch, S. Carbon Pricing and the Social Value of Emissions.
+
