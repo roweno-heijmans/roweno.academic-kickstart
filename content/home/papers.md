@@ -33,10 +33,10 @@ weight = 11
 
 **Work in progress**
 
-- Heijmans, R.J.R.K., & Rausch, S. Carbon Prices and the Social Value of Emissions.
 - Ferguson, S., & Heijmans, R.J.R.K. Do Domestic Climate Policies Stimulate the Export of Polluting Technologies? Evidence From Trade Data.
-- Heijmans, R.J.R.K., & Suetens, S. Comparing Policies to Solve Coordination Problems.
 - Capitán, T., Goeschl, T., Heijmans, R.J.R.K., & Naso. P.  Stabilising Cap and Trade Markets in the Lab.
+- Heijmans, R.J.R.K., & Rausch, S. Carbon Prices and the Social Value of Emissions.
+- Heijmans, R.J.R.K., & Suetens, S. Comparing Policies to Solve Coordination Problems.
 - Heijmans, R.J.R.K., & Van Damme, E. Sequential Global Games.
 - Heijmans, R.J.R.K., & Spiro, D. Multiple Expectations-Based Equilibria in the EU ETS.
 
