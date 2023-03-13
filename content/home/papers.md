@@ -27,7 +27,7 @@ weight = 11
 
 - Heijmans, R.J.R.K. [Time Horizons and Emissions Trading](https://www.roweno.nl/files/timehorizonsemissionstrading.pdf). Under review.
 - Heijmans, R.J.R.K. [The Global Climate Game](https://www.roweno.nl/files/TheGlobalClimateGame.pdf).
-- Heijmans, R.J.R.K. Unraveling Coordination Problems.
+- Heijmans, R.J.R.K. [Unraveling Coordination Problems](https://www.roweno.nl/files/Unraveling.pdf).
 - Heijmans, R.J.R.K., & Moura, A. [Pandemic Policy in a Global Game](https://www.roweno.nl/files/EfficientEpidemics.pdf).
 - Gerlagh, R., Heijmans, R.J.R.K., & Rosendahl, K. E. [Flexible Emissions Caps and Counterproductive Policies](https://www.roweno.nl/files/Flexible.pdf).
 
