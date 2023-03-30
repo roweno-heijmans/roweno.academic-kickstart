@@ -10,10 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Environmental economics",
-    "Public economics",
+    "Environment",
+    "Policy",
     "Game theory",
-    "Experimental economics",
+    "Experiments",
   ]
 
 # List your qualifications (such as academic degrees).
