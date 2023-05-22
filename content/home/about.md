@@ -39,8 +39,8 @@ weight = 5
 
 I am an economist with a broad interest in environmental economics and game theory.
 
-I currently work as a postdoctoral researcher in the Department of Economics at the Swedish University of Agricultural Sciences, Uppsala, Sweden. I also teach mathematics in the [Central-German Doctoral Program Economics](http://cgde.wifa.uni-leipzig.de/3257-2/).
-
 This Fall, I will join the [Department of Business and Management Science](https://www.nhh.no/en/departments/business-and-management-science/) at the Norwegian School of Economics (NHH) as an assistant professor!
+
+I also teach mathematics in the [Central-German Doctoral Program Economics](http://cgde.wifa.uni-leipzig.de/3257-2/).
 
 In my (non-existent) free time, I play the violin. Colleague [Sjak Smulders](https://research.tilburguniversity.edu/en/persons/sjak-smulders) and I from time to time force upon our fellow economists a [concert](https://twitter.com/TiUEconomics/status/1111204863382380544) in which we play music of our own choosing.
