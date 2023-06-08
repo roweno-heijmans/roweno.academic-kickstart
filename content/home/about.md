@@ -39,7 +39,7 @@ weight = 5
 
 I am an economist with a broad interest in environmental economics and game theory.
 
-**This Fall, I will join the [Department of Business and Management Science](https://www.nhh.no/en/departments/business-and-management-science/) at the Norwegian School of Economics (NHH) as an assistant professor!**
+# **This Fall, I will join the [Department of Business and Management Science](https://www.nhh.no/en/departments/business-and-management-science/) at the Norwegian School of Economics (NHH) as an assistant professor!**
 
 I also teach mathematics in the [Central-German Doctoral Program Economics](http://cgde.wifa.uni-leipzig.de/3257-2/).
 
