@@ -41,4 +41,6 @@ I am an economist with a broad interest in environmental economics and game theo
 
 I also teach mathematics in the [Central-German Doctoral Program Economics](http://cgde.wifa.uni-leipzig.de/3257-2/).
 
+Come September, I will join the [Norwegian School of Economics](https://www.nhh.no/en/departments/business-and-management-science/) (NHH) as an Assistant Professor!
+
 In my (non-existent) free time, I play the violin. Colleague [Sjak Smulders](https://research.tilburguniversity.edu/en/persons/sjak-smulders) and I from time to time force upon our fellow economists a [concert](https://twitter.com/TiUEconomics/status/1111204863382380544) in which we play music of our own choosing.
