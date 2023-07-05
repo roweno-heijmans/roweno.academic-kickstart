@@ -17,7 +17,7 @@ weight = 50
 
 **Lectures and course design**
 
-- [Mathematics for Economists][http://cgde.wifa.uni-leipzig.de/3257-2/](http://cgde.wifa.uni-leipzig.de/3455-2/) (PhD)
+- [Mathematics for Economists](http://cgde.wifa.uni-leipzig.de/3455-2/) (PhD)
 - [Environmental and Resource Economics](https://www.slu.se/en/education/programmes-courses/course/NA0168/20110.2021/Management-of-Biological-Resources/) (MSc)
 
 **Supervision**
