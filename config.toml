@@ -63,7 +63,7 @@ enableGitInfo = false
   organizations = [ { name = "NHH Norwegian School of Economics", url = "https://www.nhh.no/en/departments/business-and-management-science/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "Roweno-klein.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "RowenoSweater.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "roweno.heijmans(at)gmail(dot)com"
