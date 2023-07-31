@@ -41,6 +41,6 @@ I do research in environmental economics and game theory.
 
 I also teach mathematics in the [Central-German Doctoral Program Economics](http://cgde.wifa.uni-leipzig.de/3257-2/).
 
-I am  affiliated with the [Swedish University of Agricultural Sciences](https://www.slu.se/en/departments/economics/) in Uppsala, Sweden.
+I am  affiliated with the [Swedish University of Agricultural Sciences](https://www.slu.se/en/departments/economics/).
 
 In my (non-existent) free time, I play the violin. Colleague [Sjak Smulders](https://research.tilburguniversity.edu/en/persons/sjak-smulders) and I from time to time force upon our fellow economists a [concert](https://twitter.com/TiUEconomics/status/1111204863382380544) in which we play music of our own choosing.
