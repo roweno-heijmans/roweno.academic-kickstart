@@ -11,8 +11,8 @@ weight = 5
 [interests]
   interests = [
     "Environment",
-    "Policy",
     "Game theory",
+    "Policy",
     "Experiments",
   ]
 
