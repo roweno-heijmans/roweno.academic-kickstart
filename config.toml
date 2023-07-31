@@ -56,18 +56,18 @@ enableGitInfo = false
 
   # Your details.
   name = "Roweno J.R.K. Heijmans"
-  role = "Postdoctoral Researcher"
+  role = "Assistant Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Swedish University of Agricultural Sciences", url = "https://www.slu.se/en/departments/economics/" } ]
+  organizations = [ { name = "NHH Norwegian School of Economics", url = "https://www.nhh.no/en/departments/business-and-management-science/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "Roweno-klein.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "roweno.heijmans(at)gmail(dot)com"
-  address = "Room D362, Department of Economics, Ulls väg 27, 756 51 Uppsala, Sweden"
+  address = "NHH Norwegian School of Economics, Department of Business and Management Science, Helleveien 30, 5045 Bergen, Norway"
   office_hours = "By appointment"
   phone = ""
   skype = ""
