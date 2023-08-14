@@ -34,7 +34,6 @@ weight = 11
 
 **Work in progress**
 
-- Capitán, T., Goeschl, T., Heijmans, R.J.R.K., & Naso. P.  Stabilising Cap and Trade Markets in the Lab.
 - Heijmans, R.J.R.K., & Rausch, S. Carbon Prices and the Social Value of Emissions.
 - Heijmans, R.J.R.K., & Suetens, S. Comparing Policies to Solve Coordination Problems.
 - Heijmans, R.J.R.K., & Van Damme, E. Sequential Global Games.
