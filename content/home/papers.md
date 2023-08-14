@@ -25,7 +25,7 @@ weight = 11
 
 **Working papers (up-to-date manuscript available)**
 
-- R.J.R.K. Heijmans. [Time Horizons and Emissions Trading](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280682). Under review.
+- R.J.R.K. Heijmans. [Time Horizons and Emissions Trading](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280682).
 - R.J.R.K. Heijmans. [Unraveling Coordination Problems](https://arxiv.org/abs/2307.08557).
 - S. Ferguson & R.J.R.K. Heijmans. [Climate Policy And Trade In Polluting Technologies](https://www.ifn.se/en/publications/working-papers/2023/1470/).
 - R.J.R.K. Heijmans & A. Moura. [Pandemic Policy in a Global Game](https://www.roweno.nl/files/EfficientEpidemics.pdf).
