@@ -25,11 +25,10 @@ weight = 50
 - BSc theses 
 - MSc theses
 
-**Previous teaching (as TA)**
-
-- Macroeconomics (BSc)
-- Economics for Social Sciences (BSc)
-- Game Theory (MRes) 
-- Environmental Economics (BSc)
+# **Previous teaching (as TA)**
+# Macroeconomics (BSc)
+# Economics for Social Sciences (BSc)
+# Game Theory (MRes) 
+# Environmental Economics (BSc)
 
 
