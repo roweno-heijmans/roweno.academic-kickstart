@@ -27,8 +27,7 @@ weight = 11
 
 - Heijmans, R.J.R.K. [Time Horizons and Emissions Trading](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280682). Under review.
 - Heijmans, R.J.R.K. [Unraveling Coordination Problems](https://arxiv.org/abs/2307.08557).
-- Heijmans, R.J.R.K. [Network Subsidies](https://www.roweno.nl/files/NetworkSubsidies.pdf).
-- Ferguson, S., & Heijmans, R.J.R.K. Climate Policy And Trade In Polluting Technologies.
+- Ferguson, S., & Heijmans, R.J.R.K. [Climate Policy And Trade In Polluting Technologies](https://www.ifn.se/en/publications/working-papers/2023/1470/).
 - Heijmans, R.J.R.K., & Moura, A. [Pandemic Policy in a Global Game](https://www.roweno.nl/files/EfficientEpidemics.pdf).
 - Gerlagh, R., Heijmans, R.J.R.K., & Rosendahl, K. E. [Flexible Emissions Caps and Counterproductive Policies](https://www.roweno.nl/files/Flexible.pdf).
 
