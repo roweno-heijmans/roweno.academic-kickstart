@@ -39,6 +39,6 @@ weight = 5
 
 I do research in environmental economics and game theory.
 
-I am an assistant professor at the NHH Norwegian School of Economics. I am also affiliated with the [Swedish University of Agricultural Sciences](https://www.slu.se/en/departments/economics/) and teach mathematics in the [Central-German Doctoral Program Economics](http://cgde.wifa.uni-leipzig.de/3257-2/).
+I am an assistant professor at the [NHH Norwegian School of Economics](https://www.nhh.no/en/departments/business-and-management-science/). I am also affiliated with the [Swedish University of Agricultural Sciences](https://www.slu.se/en/departments/economics/) and teach mathematics in the [Central-German Doctoral Program Economics](http://cgde.wifa.uni-leipzig.de/3257-2/).
 
 In my (non-existent) free time, I play the violin. Colleague [Sjak Smulders](https://research.tilburguniversity.edu/en/persons/sjak-smulders) and I from time to time force upon our fellow economists a [concert](https://twitter.com/TiUEconomics/status/1111204863382380544) in which we play music of our own choosing.
