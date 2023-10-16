@@ -25,8 +25,8 @@ weight = 11
 
 **Working papers (up-to-date manuscript available)**
 
-- [Time Horizons and Emissions Trading](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280682)
 - [Unraveling Coordination Problems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4552733)
+- [Time Horizons and Emissions Trading](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280682)
 - [Climate Policy And Trade In Polluting Technologies](https://www.ifn.se/en/publications/working-papers/2023/1470/), with S. Ferguson
 - [Pandemic Policy in a Global Game](https://www.roweno.nl/files/EfficientEpidemics.pdf), with A. Moura
 - [Flexible Emissions Caps and Counterproductive Policies](https://www.roweno.nl/files/Flexible.pdf), with R. Gerlagh and K.E. Rosendahl
