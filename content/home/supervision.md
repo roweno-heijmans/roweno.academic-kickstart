@@ -18,5 +18,5 @@ weight = 49
 
 **PhD Students**
 
-- [Max Engström](https://www.slu.se/institutioner/ekonomi/forskning/forskning---ingangssida/miljoekonomi/personalmeko/) (Co-supervisor)
+- [Max Engström](https://www.slu.se/institutioner/ekonomi/forskning/forskning---ingangssida/miljoekonomi/personalmeko/) (co-supervisor)
 
