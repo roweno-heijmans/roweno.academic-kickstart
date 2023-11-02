@@ -328,22 +328,11 @@ enableGitInfo = false
   url = "#other"
   weight = 9
 
-# [[menu.main]]
-#  name = "Conferences"
-#  url = "#conferences"
-#  weight = 3
-
-#[[menu.main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 4
-
-
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 9
+  weight = 10
 
 
 # Search.
