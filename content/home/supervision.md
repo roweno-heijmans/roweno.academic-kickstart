@@ -20,3 +20,8 @@ weight = 49
 
 - [Max Engström](https://www.slu.se/institutioner/ekonomi/forskning/forskning---ingangssida/miljoekonomi/personalmeko/) (co-supervisor)
 
+**MSc theses**
+Approximately 10
+
+**BSc theses***
+Approximately 15
