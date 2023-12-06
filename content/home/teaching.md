@@ -25,7 +25,7 @@ weight = 50
 
 - [Mathematics for Economists](http://cgde.wifa.uni-leipzig.de/3455-2/) (PhD)
 - [Environmental and Resource Economics](https://www.slu.se/en/education/programmes-courses/course/NA0168/20110.2021/Management-of-Biological-Resources/) (MSc)
-- [Environmental Economics and Markets](https://www.nhh.no/en/courses/environmental-economics-and-markets/) (BSc)
+- [Environmental Economics and Markets](https://www.nhh.no/en/courses/environmental-economics-and-markets/?displayNextTerm=True) (BSc)
 
 
 
