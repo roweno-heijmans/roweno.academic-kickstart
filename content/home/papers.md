@@ -34,9 +34,7 @@ weight = 11
 
 **Work in progress**
 
-- Network Subsidies
+- Network Subsidies, with S. Suetens
 - Comparing Policies to Solve Coordination Problems, with S. Suetens
-- Carbon Prices and the Social Value of Emissions, with S. Rausch
 - Commitment and Climate Policy, with D. Spiro
-- Sequential Global Games, with E. van Damme
 
