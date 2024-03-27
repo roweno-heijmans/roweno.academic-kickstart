@@ -27,7 +27,7 @@ weight = 11
 
 - [Time Horizons and Emissions Trading](https://openaccess.nhh.no/nhh-xmlui/handle/11250/3113286), with M. Engström. _Submitted_
 - [Climate Policy and Trade in Polluting Technologies](https://openaccess.nhh.no/nhh-xmlui/handle/11250/3114448), with S. Ferguson. _Submitted_
-- [Unraveling Coordination Problems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4552733) ([slides](https://www.roweno.nl/files/slides_GPD.pdf))
+- [Equity and Efficiency: Policy Design in Coordination Problems Under Uncertainty](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4552733) ([slides](https://www.roweno.nl/files/slides_GPD.pdf))
 - [Flexible Emissions Caps and Counterproductive Policies](https://www.roweno.nl/files/Flexible.pdf), with R. Gerlagh and K.E. Rosendahl
 
 
