@@ -34,7 +34,6 @@ weight = 11
 
 **Work in progress**
 
-- Network Subsidies, with S. Suetens
-- Comparing Policies to Solve Coordination Problems, with S. Suetens
+- Subsidies to Solve Coordination Problems, with S. Suetens
 - Commitment and Climate Policy, with D. Spiro
 
