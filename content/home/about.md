@@ -12,7 +12,6 @@ weight = 5
   interests = [
     "Environment",
     "Game theory",
-    "Policy",
     "Experiments",
   ]
 
