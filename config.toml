@@ -56,7 +56,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Roweno J.R.K. Heijmans"
-  role = "Assistant Professor & Adjunct Associate Professor"
+    # role = "Assistant Professor & Adjunct Associate Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
