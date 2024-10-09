@@ -26,7 +26,7 @@ weight = 60
 - Heijmans, R.J.R.K., & Gerlagh, R. (2019). [Hervorming van Europees emissiehandelssysteem is effectief en biedt kansen](https://esb.nu/esb/20055600/hervorming-van-europees-emissiehandelssysteem-is-effectief-en-biedt-kansen). _Economisch Statistische Berichten_.
 - Heijmans, R.J.R.K. (2021). [Toekomstbestendig klimaatbeleid vergt prijsband voor CO₂-emissierechten](https://esb.nu/esb/20069106/toekomstbestendig-klimaatbeleid-vergt-prijsband-voor-co-emissierechten). _Economisch Statistische Berichten_.
 - Heijmans, R.J.R.K. (2021). [Promotiebespreking](https://esb.nu/esb/20066009/promotiebespreking-roweno-heijmans). _Economisch Statistische Berichten_.
-- Heijmans, R.J.R.K. (2019). [Kans op weglek door afschaffing fossiele subsidies lijkt beperkt](https://esb.nu/kans-op-weglek-door-afschaffing-fossiele-subsidies-lijkt-beperkt/). _Economisch Statistische Berichten_.
+- Heijmans, R.J.R.K. (2024). [Kans op weglek door afschaffing fossiele subsidies lijkt beperkt](https://esb.nu/kans-op-weglek-door-afschaffing-fossiele-subsidies-lijkt-beperkt/). _Economisch Statistische Berichten_.
 
 
 
