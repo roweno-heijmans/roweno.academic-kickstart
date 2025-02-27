@@ -24,6 +24,7 @@ weight = 50
 **Lectures and course design**
 
 Current
+
 - [Mathematics for Economists](http://cgde.wifa.uni-leipzig.de/3455-2/), PhD, 2022--
   
 - [Environmental Economics and Markets](https://www.nhh.no/en/courses/environmental-economics-and-markets/?displayNextTerm=True), BSc, 2024--
@@ -35,6 +36,7 @@ Current
 - [Integration Projects](https://ocasys.rug.nl/current/catalog/course/EBE073A05), MBA, 2024--
 
 Past
+
 - [Management of Biological Resources](https://www.slu.se/en/education/programmes-courses/course/NA0168/20110.2021/Management-of-Biological-Resources/), MSc, 2021--2023
 
 
