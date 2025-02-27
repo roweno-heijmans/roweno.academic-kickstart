@@ -25,13 +25,13 @@ weight = 11
 
 **Working papers (up-to-date manuscript available)**
 
-- [Time Horizons and Emissions Trading](https://openaccess.nhh.no/nhh-xmlui/handle/11250/3113286), with M. Engström. _Submitted_
-- [Climate Policy and Trade in Polluting Technologies](https://openaccess.nhh.no/nhh-xmlui/handle/11250/3114448), with S. Ferguson. _Submitted_
-- [Equity and Efficiency: Policy Design in Coordination Problems Under Uncertainty](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4552733) 
+- [Time Horizons and Emissions Trading](https://openaccess.nhh.no/nhh-xmlui/handle/11250/3113286), with M. Engström.
+- [Climate Policy and Trade in Polluting Technologies](https://openaccess.nhh.no/nhh-xmlui/handle/11250/3114448), with S. Ferguson.
+- [Equity and Efficiency: Policy Design in Coordination Problems Under Uncertainty](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4552733)
+- Comparing Subsidies to Solve Coordination Failure, with S. Suetens
 
 
 **Work in progress**
 
-- Comparing Subsidies to Solve Coordination Failure, with S. Suetens
 - Commitment and Climate Policy, with D. Spiro
 
