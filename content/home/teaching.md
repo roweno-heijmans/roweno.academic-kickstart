@@ -25,9 +25,13 @@ weight = 50
 
 Current
 - [Mathematics for Economists](http://cgde.wifa.uni-leipzig.de/3455-2/), PhD, 2022--
+  
 - [Environmental Economics and Markets](https://www.nhh.no/en/courses/environmental-economics-and-markets/?displayNextTerm=True), BSc, 2024--
+  
 - [Carbon Footprint of Supply Chains](https://ocasys.rug.nl/current/catalog/course/EBM245A05), MSc, 2024--
+  
 - [Environmental and Resource Economics](https://ocasys.rug.nl/current/catalog/course/EBB898B05), BSc, 2024--
+  
 - [Integration Projects](https://ocasys.rug.nl/current/catalog/course/EBE073A05), MBA, 2024--
 
 Past
