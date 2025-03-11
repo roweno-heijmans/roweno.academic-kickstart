@@ -28,7 +28,7 @@ weight = 11
 - [Time Horizons and Emissions Trading](https://openaccess.nhh.no/nhh-xmlui/handle/11250/3113286), with M. Engström.
 - [Climate Policy and Trade in Polluting Technologies](https://openaccess.nhh.no/nhh-xmlui/handle/11250/3114448), with S. Ferguson.
 - [Equity and Efficiency: Policy Design in Coordination Problems Under Uncertainty](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4552733)
-- [Comparing Subsidies to Solve Coordination Failure](https://www.rug.nl/feb/research/febri-research-reports/docs-2025/2025004-eef-def.pdf), with S. Suetens. [Pre-registration](https://osf.io/674vw)
+- [Comparing Subsidies to Solve Coordination Failure](https://cepr.org/publications/dp20035), with S. Suetens. [Pre-registration](https://osf.io/674vw)
 
 
 **Work in progress**
